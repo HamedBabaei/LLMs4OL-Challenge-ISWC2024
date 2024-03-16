@@ -1,3 +1,15 @@
+archive/
+llms4ol/
+# task A - test
+*/*/*test.json
+# task B - test
+*/*/*test_pairs.json
+*/*/*test_types.txt
+# Task C - test
+*/*/*test_re_pairs.json
+*/*/*test_re_types.txt
+*/*/*test_re_relations.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
