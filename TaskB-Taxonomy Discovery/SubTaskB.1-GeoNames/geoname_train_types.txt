@@ -1,0 +1,477 @@
+upland
+facility center
+fossilized forest
+navigation canal(s)
+railroad yard
+pagoda
+lava area
+cone(s)
+nunataks
+religious site
+homestead
+distributary(-ies)
+natural tunnel
+quicksand
+ruined bridge
+athletic field
+ledge
+stream, lake
+square
+lake channel(s)
+icecap depression
+section of plateau
+section of bank
+abandoned watercourse
+cairn
+canyon
+retreat
+airbase
+fissure
+scientific research base
+pan
+mountains
+vineyard
+hammock(s)
+petroleum basin
+drainage basin
+road
+dispensary
+beaches
+populated locality
+satellite station
+road, railroad
+oil refinery
+hill
+oil pipeline terminal
+escarpment
+levee
+spur(s)
+sub-surface dam
+canal bend
+section of stream
+opera house
+seat of a second-order administrative division
+archive
+furrow
+cordillera
+wells
+freely associated state
+whaling station
+land-tied island
+seat of a fourth-order administrative division
+sandy desert
+oilfield
+canal
+mall
+icecap dome
+foundry
+crater(s)
+cannery
+slide
+administrative division
+leprosarium
+rapids
+road cut
+spot, building, farm
+store
+well
+former inlet
+peaks
+stream bend
+divide
+moraine
+ponds
+glacier(s)
+orchard(s)
+road junction
+coconut grove
+cuesta(s)
+strait
+abandoned farm
+tram
+anabranch
+medical center
+cave(s)
+agricultural colony
+sugar mill
+railroad siding
+university prep school
+guest house
+racetrack
+intermittent ponds
+house(s)
+ghat
+dockyard
+water pumping station
+tidal flat(s)
+naval base
+triangulation station
+economic region
+city, village
+irrigation system
+karst area
+flat
+hermitage
+section of intermittent stream
+abandoned airfield
+post office
+hot spring(s)
+rise
+industrial area
+pool(s)
+munitions plant
+shore
+military installation
+boulder field
+railroad junction
+dam
+spillway
+apron
+free trade zone
+locality
+depression(s)
+pyramids
+maritime school
+intersection
+convent
+breakwater
+atoll(s)
+olive grove
+castle
+wadi junction
+common
+amusement park
+field(s)
+quarry(-ies)
+gorge(s)
+stadium
+ocean
+seat of a third-order administrative division
+wreck
+intermittent oxbow lake
+port
+brewery
+polder
+irrigated field(s)
+moat
+mountain, hill, rock
+research institute
+bus station
+courthouse
+intermittent stream
+historical capital of a political entity
+point
+meander neck
+bush(es)
+lagoon
+oil camp
+peak
+temp work office
+tribal area
+plateau
+bank
+reserve
+storehouse
+forest, heath
+palm grove
+caravan route
+shoals
+railroad signal
+university
+office building
+aquaculture facility
+points
+ferry terminal
+barracks
+parks, area
+peat cutting area
+reefs
+sabkha(s)
+mountain
+historical fourth-order administrative division
+intermittent lake
+grassland
+hospital
+asphalt lake
+talus slope
+continental rise
+undersea
+copper mine(s)
+lagoons
+cirque
+baling station
+historical fifth-order administrative division
+tunnels
+quay
+farm village
+piece of art
+roadstead
+weir(s)
+fan(s)
+region
+radio station
+concession area
+mound
+butte(s)
+aqueduct
+bus stop
+salt area
+museum
+ridge
+space center
+ranch(es)
+railroad stop
+inspection station
+factory
+abandoned prison
+intermittent salt pond(s)
+mesa(s)
+scrubland
+coalfield
+prison
+fjords
+snowfield
+gold mine(s)
+military base
+abandoned mine
+territory
+interfluve
+railroad
+parking lot
+hole
+buffer zone
+narrows
+leper colony
+landfill
+novitiate
+heliport
+corral(s)
+trench
+fishing area
+pinnacle
+asylum
+stony desert
+agricultural reserve
+valleys
+plain(s)
+populated place
+tablemounts (or guyots)
+palace
+deep
+historical first-order administrative division
+amphitheater
+tea plantation
+local government office
+valley
+fourth-order administrative division
+bar
+headwaters
+stock route
+historical political entity
+mound(s)
+traffic circle
+sulphur spring(s)
+boatyard
+abandoned police post
+rubber plantation
+labor camp
+grazing area
+continent
+palm tree reserve
+province
+salt pond
+geyser
+lake
+spur
+icecap
+mole
+section of lagoon
+school
+slope(s)
+portage
+shrine
+salt evaporation ponds
+ravine(s)
+abandoned well
+cultivated area
+spring(s)
+nuclear power station
+third-order administrative division
+sill
+tree(s)
+sanatorium
+underground irrigation canal(s)
+shelf edge
+wharf(-ves)
+moor(s)
+arch
+section of populated place
+anchorage
+cemetery
+salt lakes
+airport
+oil palm plantation
+grave
+crater lakes
+confluence
+boundary marker
+radio observatory
+capital of a political entity
+customs house
+religious center
+destroyed populated place
+artillery range
+golf course
+reef(s)
+fan
+meteorological station
+country, state, region
+drainage canal
+section of estate
+pier
+road bend
+gully
+seamounts
+community center
+nature reserve
+pond
+marine channel
+salt mine(s)
+waterhole(s)
+islands
+knolls
+drainage ditch
+phosphate works
+gravel area
+historical populated place
+wadi mouth
+spa
+historical region
+seamount
+agricultural school
+customs post
+fishponds
+seat of a fifth-order administrative division
+forest reserve
+salt marsh
+police post
+lighthouse
+icecap ridge
+mining area
+shelf valley
+fifth-order administrative division
+intermittent pool
+ancient wall
+forest(s)
+hotel
+beach ridge
+landing
+experiment station
+halting place
+mosque
+housing development
+abandoned railroad station
+ore treatment plant
+college
+rookery
+water tank
+meadow
+camp(s)
+fjord
+iron mine(s)
+current
+intermittent pond
+sound
+cove(s)
+sewage treatment plant
+cutoff
+reach
+corridor
+bog(s)
+fracture zone
+desert
+rocks
+chrome mine(s)
+heath
+dock(s)
+tundra
+mud flat(s)
+market
+tongue
+bridge
+rock
+garden(s)
+border post
+sugar refinery
+logging camp
+wadi
+section of wadi
+marsh(es)
+mine(s)
+shoal(s)
+resort
+streams
+pass
+atomic center
+volcano
+gulf
+railroad station
+arrugado
+canal tunnel
+steps
+hills
+maneuver area
+abandoned camp
+clinic
+synagogue
+cattle dipping tank
+mission
+church
+reservoir(s)
+farmstead
+channel
+dike
+interdune trough(s)
+navigation channel
+sheepfold
+banks
+trail
+abandoned factory
+bays
+ridge(s)
+tunnel
+abandoned mission
+irrigation canal
+salt ponds
+sugar plantation
+zoo
+former sugar mill
+shoal
+coral reef(s)
+farm
+salt lake
+lock(s)
+oil pumping station
+State Exam Prep Centre
+slope
+dependent political entity
+copper works
+saddle
+gate
+section of plain
+lost river
+seaplane landing area
+hut
+leased area
+shelf
+terrace
+abandoned canal
+seachannel
+inlet
+reformatory
+ferry
+burial cave(s)
+waterfall(s)
+peninsula
+coal mine(s)
+mill(s)

@@ -1,0 +1,1906 @@
+[
+    {
+        "parent": "mountain, hill, rock",
+        "child": "karst area"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "dike"
+    },
+    {
+        "parent": "forest, heath",
+        "child": "forest(s)"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "wells"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "salt pond"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "ponds"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "baling station"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "sugar mill"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "stony desert"
+    },
+    {
+        "parent": "undersea",
+        "child": "cordillera"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "police post"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "railroad signal"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "abandoned prison"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "crater(s)"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "free trade zone"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "former inlet"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "spa"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "pass"
+    },
+    {
+        "parent": "undersea",
+        "child": "seamounts"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "quarry(-ies)"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "pyramids"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "reformatory"
+    },
+    {
+        "parent": "parks, area",
+        "child": "economic region"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "divide"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "headwaters"
+    },
+    {
+        "parent": "city, village",
+        "child": "farm village"
+    },
+    {
+        "parent": "undersea",
+        "child": "continental rise"
+    },
+    {
+        "parent": "undersea",
+        "child": "shelf valley"
+    },
+    {
+        "parent": "country, state, region",
+        "child": "dependent political entity"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "roadstead"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "golf course"
+    },
+    {
+        "parent": "undersea",
+        "child": "seamount"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "railroad stop"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "sulphur spring(s)"
+    },
+    {
+        "parent": "undersea",
+        "child": "province"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "abandoned mission"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "ridge(s)"
+    },
+    {
+        "parent": "country, state, region",
+        "child": "fourth-order administrative division"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "hospital"
+    },
+    {
+        "parent": "undersea",
+        "child": "saddle"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "homestead"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "inlet"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "icecap depression"
+    },
+    {
+        "parent": "forest, heath",
+        "child": "heath"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "point"
+    },
+    {
+        "parent": "city, village",
+        "child": "capital of a political entity"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "convent"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "fissure"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "section of plain"
+    },
+    {
+        "parent": "undersea",
+        "child": "valley"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "crater lakes"
+    },
+    {
+        "parent": "parks, area",
+        "child": "agricultural reserve"
+    },
+    {
+        "parent": "parks, area",
+        "child": "agricultural colony"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "sugar plantation"
+    },
+    {
+        "parent": "undersea",
+        "child": "apron"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "maritime school"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "sandy desert"
+    },
+    {
+        "parent": "country, state, region",
+        "child": "historical political entity"
+    },
+    {
+        "parent": "undersea",
+        "child": "tongue"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "peaks"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "slope(s)"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "lock(s)"
+    },
+    {
+        "parent": "parks, area",
+        "child": "palm tree reserve"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "halting place"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "burial cave(s)"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "intermittent lake"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "fishponds"
+    },
+    {
+        "parent": "parks, area",
+        "child": "reserve"
+    },
+    {
+        "parent": "forest, heath",
+        "child": "orchard(s)"
+    },
+    {
+        "parent": "forest, heath",
+        "child": "coconut grove"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "beaches"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "canal"
+    },
+    {
+        "parent": "parks, area",
+        "child": "oilfield"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "salt evaporation ponds"
+    },
+    {
+        "parent": "country, state, region",
+        "child": "third-order administrative division"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "nuclear power station"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "logging camp"
+    },
+    {
+        "parent": "undersea",
+        "child": "peak"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "cirque"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "pond"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "section of wadi"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "store"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "abandoned watercourse"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "aqueduct"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "section of stream"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "waterfall(s)"
+    },
+    {
+        "parent": "parks, area",
+        "child": "peat cutting area"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "canal bend"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "canal tunnel"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "rock"
+    },
+    {
+        "parent": "parks, area",
+        "child": "tribal area"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "ravine(s)"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "research institute"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "valleys"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "section of bank"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "confluence"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "sheepfold"
+    },
+    {
+        "parent": "forest, heath",
+        "child": "meadow"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "sugar refinery"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "boatyard"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "dock(s)"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "leprosarium"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "space center"
+    },
+    {
+        "parent": "road, railroad",
+        "child": "caravan route"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "navigation channel"
+    },
+    {
+        "parent": "undersea",
+        "child": "shoal"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "volcano"
+    },
+    {
+        "parent": "undersea",
+        "child": "pinnacle"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "foundry"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "peak"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "irrigation system"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "wreck"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "anchorage"
+    },
+    {
+        "parent": "parks, area",
+        "child": "forest reserve"
+    },
+    {
+        "parent": "parks, area",
+        "child": "snowfield"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "meander neck"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "current"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "mosque"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "spur(s)"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "radio station"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "hermitage"
+    },
+    {
+        "parent": "parks, area",
+        "child": "drainage basin"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "navigation canal(s)"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "brewery"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "leper colony"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "icecap dome"
+    },
+    {
+        "parent": "forest, heath",
+        "child": "vineyard"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "munitions plant"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "ferry"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "marine channel"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "ferry terminal"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "lagoons"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "inspection station"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "sub-surface dam"
+    },
+    {
+        "parent": "parks, area",
+        "child": "common"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "sound"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "courthouse"
+    },
+    {
+        "parent": "undersea",
+        "child": "fracture zone"
+    },
+    {
+        "parent": "parks, area",
+        "child": "grazing area"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "nunataks"
+    },
+    {
+        "parent": "parks, area",
+        "child": "salt area"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "phosphate works"
+    },
+    {
+        "parent": "road, railroad",
+        "child": "tunnel"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "tram"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "cave(s)"
+    },
+    {
+        "parent": "forest, heath",
+        "child": "scrubland"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "intermittent stream"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "retreat"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "section of estate"
+    },
+    {
+        "parent": "undersea",
+        "child": "peaks"
+    },
+    {
+        "parent": "country, state, region",
+        "child": "freely associated state"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "border post"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "bridge"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "gulf"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "section of lagoon"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "cove(s)"
+    },
+    {
+        "parent": "undersea",
+        "child": "banks"
+    },
+    {
+        "parent": "country, state, region",
+        "child": "fifth-order administrative division"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "office building"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "cuesta(s)"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "oil pipeline terminal"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "traffic circle"
+    },
+    {
+        "parent": "undersea",
+        "child": "sill"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "ocean"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "cemetery"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "church"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "factory"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "polder"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "athletic field"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "gold mine(s)"
+    },
+    {
+        "parent": "city, village",
+        "child": "historical capital of a political entity"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "desert"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "post office"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "salt lakes"
+    },
+    {
+        "parent": "parks, area",
+        "child": "concession area"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "moraine"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "beach ridge"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "plain(s)"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "reef(s)"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "zoo"
+    },
+    {
+        "parent": "parks, area",
+        "child": "mining area"
+    },
+    {
+        "parent": "undersea",
+        "child": "plateau"
+    },
+    {
+        "parent": "undersea",
+        "child": "canyon"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "lighthouse"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "wharf(-ves)"
+    },
+    {
+        "parent": "parks, area",
+        "child": "housing development"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "palace"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "lost river"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "coral reef(s)"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "hill"
+    },
+    {
+        "parent": "parks, area",
+        "child": "quicksand"
+    },
+    {
+        "parent": "undersea",
+        "child": "moat"
+    },
+    {
+        "parent": "parks, area",
+        "child": "locality"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "rubber plantation"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "hut"
+    },
+    {
+        "parent": "undersea",
+        "child": "flat"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "storehouse"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "copper mine(s)"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "lagoon"
+    },
+    {
+        "parent": "parks, area",
+        "child": "military base"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "clinic"
+    },
+    {
+        "parent": "road, railroad",
+        "child": "tunnels"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "camp(s)"
+    },
+    {
+        "parent": "undersea",
+        "child": "spur"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "interfluve"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "airbase"
+    },
+    {
+        "parent": "undersea",
+        "child": "shelf edge"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "copper works"
+    },
+    {
+        "parent": "parks, area",
+        "child": "amusement park"
+    },
+    {
+        "parent": "undersea",
+        "child": "valleys"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "mound(s)"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "meteorological station"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "spillway"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "slide"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "amphitheater"
+    },
+    {
+        "parent": "country, state, region",
+        "child": "leased area"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "depression(s)"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "hot spring(s)"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "mole"
+    },
+    {
+        "parent": "forest, heath",
+        "child": "olive grove"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "opera house"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "butte(s)"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "arch"
+    },
+    {
+        "parent": "parks, area",
+        "child": "petroleum basin"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "mesa(s)"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "fishing area"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "abandoned airfield"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "agricultural school"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "atoll(s)"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "strait"
+    },
+    {
+        "parent": "undersea",
+        "child": "deep"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "whaling station"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "reach"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "guest house"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "military installation"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "university prep school"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "abandoned factory"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "customs house"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "State Exam Prep Centre"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "marsh(es)"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "steps"
+    },
+    {
+        "parent": "road, railroad",
+        "child": "portage"
+    },
+    {
+        "parent": "forest, heath",
+        "child": "tree(s)"
+    },
+    {
+        "parent": "parks, area",
+        "child": "industrial area"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "talus slope"
+    },
+    {
+        "parent": "road, railroad",
+        "child": "road cut"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "distributary(-ies)"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "hotel"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "landing"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "experiment station"
+    },
+    {
+        "parent": "road, railroad",
+        "child": "road"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "mountains"
+    },
+    {
+        "parent": "undersea",
+        "child": "seachannel"
+    },
+    {
+        "parent": "parks, area",
+        "child": "port"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "glacier(s)"
+    },
+    {
+        "parent": "undersea",
+        "child": "rise"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "atomic center"
+    },
+    {
+        "parent": "undersea",
+        "child": "mountain"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "wadi mouth"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "icecap"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "abandoned farm"
+    },
+    {
+        "parent": "undersea",
+        "child": "tablemounts (or guyots)"
+    },
+    {
+        "parent": "parks, area",
+        "child": "naval base"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "religious site"
+    },
+    {
+        "parent": "road, railroad",
+        "child": "stock route"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "sabkha(s)"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "lake channel(s)"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "oil pumping station"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "moor(s)"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "ruined bridge"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "university"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "fjords"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "pan"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "coal mine(s)"
+    },
+    {
+        "parent": "parks, area",
+        "child": "coalfield"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "cairn"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "oil camp"
+    },
+    {
+        "parent": "undersea",
+        "child": "ridge"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "cone(s)"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "drainage ditch"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "railroad siding"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "lava area"
+    },
+    {
+        "parent": "forest, heath",
+        "child": "grassland"
+    },
+    {
+        "parent": "city, village",
+        "child": "populated locality"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "museum"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "former sugar mill"
+    },
+    {
+        "parent": "undersea",
+        "child": "hills"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "grave"
+    },
+    {
+        "parent": "undersea",
+        "child": "shelf"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "heliport"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "ranch(es)"
+    },
+    {
+        "parent": "road, railroad",
+        "child": "railroad yard"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "scientific research base"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "ore treatment plant"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "dam"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "section of intermittent stream"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "house(s)"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "intermittent salt pond(s)"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "ghat"
+    },
+    {
+        "parent": "forest, heath",
+        "child": "cultivated area"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "college"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "oil refinery"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "wadi junction"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "interdune trough(s)"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "corral(s)"
+    },
+    {
+        "parent": "undersea",
+        "child": "reefs"
+    },
+    {
+        "parent": "road, railroad",
+        "child": "natural tunnel"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "radio observatory"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "weir(s)"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "barracks"
+    },
+    {
+        "parent": "road, railroad",
+        "child": "road junction"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "intermittent oxbow lake"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "synagogue"
+    },
+    {
+        "parent": "country, state, region",
+        "child": "historical fourth-order administrative division"
+    },
+    {
+        "parent": "undersea",
+        "child": "fan"
+    },
+    {
+        "parent": "undersea",
+        "child": "gully"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "peninsula"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "drainage canal"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "gorge(s)"
+    },
+    {
+        "parent": "undersea",
+        "child": "hole"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "railroad station"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "school"
+    },
+    {
+        "parent": "country, state, region",
+        "child": "administrative division"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "castle"
+    },
+    {
+        "parent": "city, village",
+        "child": "seat of a fourth-order administrative division"
+    },
+    {
+        "parent": "forest, heath",
+        "child": "palm grove"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "intermittent pond"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "salt lake"
+    },
+    {
+        "parent": "undersea",
+        "child": "terrace"
+    },
+    {
+        "parent": "parks, area",
+        "child": "gravel area"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "religious center"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "rapids"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "facility center"
+    },
+    {
+        "parent": "parks, area",
+        "child": "nature reserve"
+    },
+    {
+        "parent": "undersea",
+        "child": "levee"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "water tank"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "bar"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "escarpment"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "abandoned camp"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "tea plantation"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "labor camp"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "satellite station"
+    },
+    {
+        "parent": "undersea",
+        "child": "hill"
+    },
+    {
+        "parent": "undersea",
+        "child": "mound"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "chrome mine(s)"
+    },
+    {
+        "parent": "undersea",
+        "child": "furrow"
+    },
+    {
+        "parent": "road, railroad",
+        "child": "railroad junction"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "spring(s)"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "mud flat(s)"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "sill"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "dockyard"
+    },
+    {
+        "parent": "city, village",
+        "child": "seat of a third-order administrative division"
+    },
+    {
+        "parent": "city, village",
+        "child": "populated place"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "cannery"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "water pumping station"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "garden(s)"
+    },
+    {
+        "parent": "parks, area",
+        "child": "field(s)"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "abandoned police post"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "community center"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "breakwater"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "racetrack"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "anabranch"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "sanatorium"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "points"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "corridor"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "abandoned railroad station"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "land-tied island"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "mill(s)"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "wadi"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "upland"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "plateau"
+    },
+    {
+        "parent": "parks, area",
+        "child": "artillery range"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "narrows"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "square"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "fjord"
+    },
+    {
+        "parent": "road, railroad",
+        "child": "trail"
+    },
+    {
+        "parent": "undersea",
+        "child": "arrugado"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "sewage treatment plant"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "islands"
+    },
+    {
+        "parent": "country, state, region",
+        "child": "historical first-order administrative division"
+    },
+    {
+        "parent": "forest, heath",
+        "child": "bush(es)"
+    },
+    {
+        "parent": "country, state, region",
+        "child": "territory"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "intermittent pool"
+    },
+    {
+        "parent": "parks, area",
+        "child": "historical region"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "salt marsh"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "mission"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "rocks"
+    },
+    {
+        "parent": "country, state, region",
+        "child": "historical fifth-order administrative division"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "quay"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "airport"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "abandoned well"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "seaplane landing area"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "archive"
+    },
+    {
+        "parent": "city, village",
+        "child": "seat of a fifth-order administrative division"
+    },
+    {
+        "parent": "forest, heath",
+        "child": "fossilized forest"
+    },
+    {
+        "parent": "undersea",
+        "child": "arch"
+    },
+    {
+        "parent": "city, village",
+        "child": "seat of a second-order administrative division"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "irrigation canal"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "bays"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "temp work office"
+    },
+    {
+        "parent": "city, village",
+        "child": "section of populated place"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "intermittent ponds"
+    },
+    {
+        "parent": "forest, heath",
+        "child": "tundra"
+    },
+    {
+        "parent": "road, railroad",
+        "child": "railroad"
+    },
+    {
+        "parent": "city, village",
+        "child": "destroyed populated place"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "bog(s)"
+    },
+    {
+        "parent": "undersea",
+        "child": "ledge"
+    },
+    {
+        "parent": "undersea",
+        "child": "bank"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "cattle dipping tank"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "shrine"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "landfill"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "farm"
+    },
+    {
+        "parent": "parks, area",
+        "child": "maneuver area"
+    },
+    {
+        "parent": "country, state, region",
+        "child": "buffer zone"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "fan(s)"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "piece of art"
+    },
+    {
+        "parent": "parks, area",
+        "child": "continent"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "stream bend"
+    },
+    {
+        "parent": "parks, area",
+        "child": "region"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "underground irrigation canal(s)"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "dispensary"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "abandoned canal"
+    },
+    {
+        "parent": "road, railroad",
+        "child": "road bend"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "section of plateau"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "novitiate"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "intersection"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "waterhole(s)"
+    },
+    {
+        "parent": "city, village",
+        "child": "historical populated place"
+    },
+    {
+        "parent": "parks, area",
+        "child": "irrigated field(s)"
+    },
+    {
+        "parent": "undersea",
+        "child": "knolls"
+    },
+    {
+        "parent": "undersea",
+        "child": "trench"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "asphalt lake"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "medical center"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "rookery"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "pool(s)"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "parking lot"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "hammock(s)"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "salt ponds"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "shoal(s)"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "mine(s)"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "boundary marker"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "cutoff"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "pier"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "pagoda"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "shore"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "channel"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "lake"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "boulder field"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "reservoir(s)"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "salt mine(s)"
+    },
+    {
+        "parent": "undersea",
+        "child": "shoals"
+    },
+    {
+        "parent": "mountain, hill, rock",
+        "child": "saddle"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "bus stop"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "oil palm plantation"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "mall"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "farmstead"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "aquaculture facility"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "gate"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "geyser"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "iron mine(s)"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "bus station"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "resort"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "stadium"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "market"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "prison"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "local government office"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "well"
+    },
+    {
+        "parent": "undersea",
+        "child": "slope"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "customs post"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "ancient wall"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "streams"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "triangulation station"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "tidal flat(s)"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "asylum"
+    },
+    {
+        "parent": "stream, lake",
+        "child": "icecap ridge"
+    },
+    {
+        "parent": "spot, building, farm",
+        "child": "abandoned mine"
+    }
+]
