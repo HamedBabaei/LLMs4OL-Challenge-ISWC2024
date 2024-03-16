@@ -9,6 +9,8 @@ llms4ol/
 */*/*test_re_pairs.json
 */*/*test_re_types.txt
 */*/*test_re_relations.txt
+# ignoring umls
+*/*-UMLS/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
