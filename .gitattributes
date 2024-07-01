@@ -1,1 +1,2 @@
 TaskA-Term[[:space:]]Typing/SubTaskA.2-GeoNames/geonames_train.json filter=lfs diff=lfs merge=lfs -text
+TaskA-Term[[:space:]]Typing/SubTask[[:space:]]A.2[[:space:]](FS)[[:space:]]-[[:space:]]GeoNames/A.2(FS)_GeoNames_Train.json filter=lfs diff=lfs merge=lfs -text
