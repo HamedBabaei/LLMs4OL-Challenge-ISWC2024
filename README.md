@@ -1,10 +1,10 @@
 ![LLMs4OL: Large Language Models for Ontology Learning](llms4ol-header.jpg)
 
-<p align="center">
-<H1 style="color: #000080; text-align: center;"><strong>LLMs4OL: Large Language Models for Ontology Learning</strong></H1>
-<H3 style="text-align: center;">LLMs4OL Challenge @ ISWC 2024</H3>
-<H5 style="text-align: center;"><a href="https://sites.google.com/view/llms4ol">Website</a> | 
-<a href="https://codalab.lisn.upsaclay.fr/competitions/19547 ">Codalab</a> </H5> </p>
+
+<H1 style="color: #000080; text-align: center;"><strong> <p align="center"> LLMs4OL: Large Language Models for Ontology Learning  </p> </strong></H1>
+<H3 style="text-align: center;"><p align="center">LLMs4OL Challenge @ ISWC 2024  </p> </H3>
+<H5 style="text-align: center;"><p align="center"><a href="https://sites.google.com/view/llms4ol">Website</a> | 
+<a href="https://codalab.lisn.upsaclay.fr/competitions/19547 ">Codalab</a></p> </H5>
 
 ## Tasks
 The LLMs4OL Challenge consists of 3 tasks:
