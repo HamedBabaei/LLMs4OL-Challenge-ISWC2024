@@ -15,7 +15,8 @@ A.3(FS)_UMLS_*
 */*/*test_re_pairs.json
 */*/*test_re_types.txt
 */*/*test_re_relations.txt
-
+*/*C.1(FS) - UMLS/*.json
+*/*C.1(FS) - UMLS/*.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
