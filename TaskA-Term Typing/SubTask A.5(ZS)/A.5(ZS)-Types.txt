@@ -1,0 +1,484 @@
+company
+activity
+name
+person
+actor
+place
+publisher
+genre
+language
+software
+school
+non-profit organisation
+agent
+Biomolecule
+broadcaster
+cartoon
+case
+celestial body
+chemical substance
+gene
+gridiron football player
+group
+identifier
+infrastructure
+Legal Case
+mean of transportation
+motorsport racer
+natural event
+natural place
+Organisation member
+periodical literature
+project
+race
+region
+route of transportation
+societal event
+sports club
+sports team season
+tournament
+unit of work
+work
+flowering plant
+clerical administrative region
+Gnetophytes
+conifer
+inline hockey league
+australian football Team
+sports team
+Database
+sport facility
+stream
+bowling league
+topical concept
+governmental administrative region
+municipality
+race track
+tower
+results of a sport competition
+Academic Person
+academic conference
+adult (pornographic) actor
+amateur boxer
+ambassador
+amphibian
+anatomical structure
+animal
+arachnid
+archaea
+archbishop
+architect
+artery
+astronaut
+athlete
+australian football league
+Australian rules football player
+auto racing league
+bacteria
+badminton player
+baseball league
+baseball player
+basketball player
+beach volleyball player
+beauty queen
+Biological database
+bodybuilder
+bone
+boxer
+brain
+brewery
+businessperson
+canal
+canoeist
+cardinal
+career station
+castle
+cave
+cheese
+chef
+chess player
+Christian Bishop
+cinema (movie theater)
+classical music artist
+cleric
+college coach
+colour
+combination drug
+comedian
+comic strip
+comics creator
+congressman
+crater
+cricket ground
+cricketer
+crustacean
+curler
+currency
+cyclist
+dam
+dancer
+darts player
+deity
+economist
+educational institution
+engineer
+entomologist
+eukaryote
+fashion designer
+figure skater
+fish
+one-time municipality
+formula 1 team
+Gaelic games player
+garden
+given name
+glacier
+golf course
+golf player
+governor
+grape
+gymnast
+handball player
+handball team
+historian
+horse
+horse trainer
+ice hockey player
+island
+JewishLeader
+jockey (horse racer)
+journalist
+lacrosse player
+Latter Day Saint
+lighthouse
+mammal
+mayor
+medician
+member of parliament
+mineral
+mixed martial arts league
+model
+mollusca
+monoclonal antibody
+motorcycle
+motorcycle racing league
+motorcycle rider
+mountain pass
+muscle
+mythological figure
+nascar driver
+national football league event
+nerve
+netball player
+noble
+painter
+photographer
+poem
+poet
+poker player
+Police Officer
+polo league
+populated place
+president
+Pretender
+priest
+prime minister
+prison
+public transit system
+racecourse
+train station
+railway tunnel
+Rebbe
+rocket
+Sailor
+scientist
+screenwriter
+sea
+Site of Special Scientific Interest
+skater
+ski area
+skier
+skyscraper
+snooker player
+soap character
+soccer manager
+soccer player
+species
+speedway rider
+sport
+Spy
+squash player
+sumo wrestler
+swimmer
+table tennis player
+television host
+tennis player
+tunnel
+vein
+volcano
+volleyball player
+wine region
+winery
+World Heritage Site
+green alga
+animanga character
+musical work
+waterway tunnel
+american football coach
+cricket team
+military person
+speedway team
+volleyball league
+broadcast network
+fashion
+galaxy
+law firm
+martial artist
+river
+stadium
+vaccine
+wrestler
+Youtuber
+American Leader
+architectural structure
+Christian Patriarch
+college
+Concentration camp
+continent
+Formula One racer
+guitarist
+judge
+ligament
+lymph
+national collegiate athletic association athlete
+Pilot
+rower
+senator
+surname
+voice actor
+bay
+liga de fútbol canadiense
+diocese
+embryology
+horse rider
+Playboy Playmate
+snooker world champion
+volleyball coach
+battery
+chancellor
+cricket league
+golf league
+lacrosse league
+olympic event
+presenter
+speedway league
+time period
+water ride
+club moss
+hollywood cartoon
+coach
+sports manager
+winter sport Player
+moss
+videogames league
+cycad
+boxing league
+american football league
+music festival
+constellation
+medical specialty
+fern
+launch pad
+softball league
+space station
+tennis league
+academic journal
+administrative region
+aircraft
+airport
+album
+american football player
+amusement park attraction
+Anime
+artist
+artist discography
+artwork
+asteroid
+automobile
+automobile engine
+award
+Band
+bank
+baseball season
+basketball team
+beverage
+body of water
+book
+bridge
+building
+bus company
+chemical compound
+city
+city district
+classical music composition
+Comedy Group
+comic
+comics character
+convention
+criminal
+cultivar (cultivated variety)
+cycling race
+cycling team
+device
+disease
+drug
+earthquake
+Election
+engine
+enzyme
+ethnic group
+Eurovision song contest entry
+event
+movie
+film festival
+Food
+football league season
+football match
+game
+golf tournament
+government agency
+Grand Prix
+historic building
+historic place
+hockey team
+holiday
+horse race
+hospital
+hotel
+HumanGene
+information appliance
+insect
+lake
+legislature
+library
+locomotive
+magazine
+manga
+military conflict
+military structure
+military unit
+monument
+motorsport season
+mountain
+museum
+musical
+musical artist
+national collegiate athletic association team season
+national football league season
+newspaper
+olympics
+organisation
+Outbreak
+Pandemic
+park
+person function
+Pharaoh
+philosopher
+planet
+plant
+play
+political party
+politician
+power station
+programming language
+protected area
+protein
+racing driver
+radio host
+radio program
+radio station
+railway line
+record label
+religious
+reptile
+research project
+restaurant
+road
+road junction
+roller coaster
+royalty
+rugby club
+rugby league
+rugby player
+settlement
+ship
+shopping mall
+single
+soccer club
+soccer club season
+soccer league
+soccer tournoment
+song
+sound
+space mission
+sports event
+sports league
+sports season
+Sports team member
+star
+station
+Supreme Court of the United States case
+television episode
+television season
+television show
+television station
+tennis tournament
+theatre
+top level domain
+town
+trade union
+train
+university
+venue
+video game
+village
+weapon
+website
+Women's Tennis Association tournament
+wrestling event
+writer
+written work
+year
+year in spaceflight
+airline
+basketball league
+country
+fictional character
+handball league
+ice hockey league
+mixed martial arts event
+music genre
+religious building
+road tunnel
+saint
+space shuttle
+american football Team
+baronet
+baseball team
+bird
+field hockey league
+novel
+pope
+ginkgo
+British royalty
+snooker world ranking
+solar eclipse
+curling league
+instrumentalist
+ArtificialSatellite
+monarch
+mountain range
+office holder
+spacecraft
+valley
+olympic result
