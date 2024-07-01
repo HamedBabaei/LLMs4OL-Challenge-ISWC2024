@@ -1,12 +1,12 @@
 # LLMs4OL: Large Language Models for Ontology Learning
 
----
 ### LLMs4OL Challenge @ ISWC-2024
 > ISWC 2024, Baltimore, Maryland, USA --- 11-15 November, 2024
 
 **Website**: https://sites.google.com/view/llms4ol
-<br/>
+
 **Codalab**: https://codalab.lisn.upsaclay.fr/competitions/19547 
+
 ---
 
 ## Tasks
