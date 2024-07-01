@@ -24,28 +24,28 @@ The zero-shot testing phase will also be organized into two stages that will run
 
 ## Datasets
 
-|                    Task                    |   Task No    |        Ontology         |
-|:------------------------------------------:|:------------:|:-----------------------:|
-|            Task A - Term Typing            |   A.1 (FS)   |         WordNet         |
-|            Task A - Term Typing            |   A.2 (FS)   |        GeoNames         |
-|            Task A - Term Typing            |   A.3 (FS)   |      UMLS (SNOMED)      |
-|            Task A - Term Typing            |   A.3 (FS)   |       UMLS (NCI)        |
-|            Task A - Term Typing            |   A.3 (FS)   |      UMLS (MEDCIN)      |
-|            Task A - Term Typing            |   A.4 (FS)   | GO (Biological Process) |
-|            Task A - Term Typing            |   A.4 (FS)   | GO (Cellular Component) |
-|            Task A - Term Typing            |   A.4 (FS)   | GO (Molecular Function) |
-|            Task A - Term Typing            | **A.5 (ZS)** |         Unknown         |
-|            Task A - Term Typing            | **A.6 (ZS)** |         Unknown         |
-|        Task B - Taxonomy Discovery         |   B.1 (FS)   |        GeoNames         |
-|        Task B - Taxonomy Discovery         |   B.2 (FS)   |       Schema.org        |
-|        Task B - Taxonomy Discovery         |   B.3 (FS)   |          UMLS           |
-|        Task B - Taxonomy Discovery         |   B.4 (FS)   |           GO            |
-|        Task B - Taxonomy Discovery         | **B.5 (ZS)** |         Unknown         |
-|        Task B - Taxonomy Discovery         | **B.6 (ZS)** |         Unknown         |
-| Task C - Non-Taxonomic Relation Extraction |   C.1 (FS)   |          UMLS           |
-| Task C - Non-Taxonomic Relation Extraction |   C.2 (FS)   |           GO            |
-| Task C - Non-Taxonomic Relation Extraction | **C.3 (ZS)** |         Unknown         |
-| Task C - Non-Taxonomic Relation Extraction | **C.4 (ZS)** |         Unknown         |
+|                    Task                    |   Task No    |        Ontology         |   Train set status   |             Test set status             |
+|:------------------------------------------:|:------------:|:-----------------------:|:--------------------:|:---------------------------------------:|
+|            Task A - Term Typing            |   A.1 (FS)   |         WordNet         |      `released`      |               `released`                |
+|            Task A - Term Typing            |   A.2 (FS)   |        GeoNames         |      `released`      |               `released`                |
+|            Task A - Term Typing            |   A.3 (FS)   |      UMLS (SNOMED)      | `released privately` |          `released privately`           |
+|            Task A - Term Typing            |   A.3 (FS)   |       UMLS (NCI)        | `released privately` |          `released privately`           |
+|            Task A - Term Typing            |   A.3 (FS)   |      UMLS (MEDCIN)      | `released privately` |          `released privately`           |
+|            Task A - Term Typing            |   A.4 (FS)   | GO (Biological Process) |      `released`      |               `released`                |
+|            Task A - Term Typing            |   A.4 (FS)   | GO (Cellular Component) |      `released`      |               `released`                |
+|            Task A - Term Typing            |   A.4 (FS)   | GO (Molecular Function) |      `released`      |               `released`                |
+|            Task A - Term Typing            | **A.5 (ZS)** |         Unknown         |          -           |               `released`                |
+|            Task A - Term Typing            | **A.6 (ZS)** |         Unknown         |          -           |               `released`                |
+|        Task B - Taxonomy Discovery         |   B.1 (FS)   |        GeoNames         |      `released`      |       `releases on July 5, 2024`        |
+|        Task B - Taxonomy Discovery         |   B.2 (FS)   |       Schema.org        |      `released`      |       `releases on July 5, 2024`        |
+|        Task B - Taxonomy Discovery         |   B.3 (FS)   |          UMLS           | `released privately` |    `privately releases July 5, 2024`    |
+|        Task B - Taxonomy Discovery         |   B.4 (FS)   |           GO            |      `released`      |       `releases on July 5, 2024`        |
+|        Task B - Taxonomy Discovery         | **B.5 (ZS)** |         Unknown         |          -           |       `releases on July 5, 2024`        |
+|        Task B - Taxonomy Discovery         | **B.6 (ZS)** |         Unknown         |          -           |       `releases on July 5, 2024`        |
+| Task C - Non-Taxonomic Relation Extraction |   C.1 (FS)   |          UMLS           | `released privately` |    `privately releases July 5, 2024`    |
+| Task C - Non-Taxonomic Relation Extraction |   C.2 (FS)   |           GO            |      `released`      |       `releases on July 5, 2024`        |
+| Task C - Non-Taxonomic Relation Extraction | **C.3 (ZS)** |         Unknown         |          -           |       `releases on July 5, 2024`        |
+| Task C - Non-Taxonomic Relation Extraction | **C.4 (ZS)** |         Unknown         |          -           |       `releases on July 5, 2024`        |
 
 * `FS` stands for Few-shot testing tasks
 * `ZS` stands for Zero-shot testing tasks
