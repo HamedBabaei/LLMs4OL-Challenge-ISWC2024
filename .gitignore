@@ -1,5 +1,6 @@
 Materials/
 codalab/
+.idea/
 # task A - test
 */*/*Test_GT.json
 */*/*/*Test_GT.json
