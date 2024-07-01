@@ -1,16 +1,32 @@
-# LLMs4OL Challenge @ ISWC-2024
+# LLMs4OL: Large Language Models for Ontology Learning
 
+---
+### LLMs4OL Challenge @ ISWC-2024
+> ISWC 2024, Baltimore, Maryland, USA --- 11-15 November, 2024
 
+**Website**: https://sites.google.com/view/llms4ol
+<br/>
+**Codalab**: https://codalab.lisn.upsaclay.fr/competitions/19547 
+---
+
+## Tasks
+The LLMs4OL Challenge consists of 3 tasks:
+
+* **Task A - Term Typing**: Discover the generalized type for a lexical term.
+* **Task B - Taxonomy Discovery**: Discover the taxonomic hierarchy between type pairs.
+* **Task C - Non-Taxonomic Relation Extraction**: Identify non-taxonomic, semantic relations between types.
+
+## Evaluation Phases
 Two main evaluation phases for the challenge are:
 
-
-1. Few-shot testing phase 
+### 1. Few-shot testing phase
 Each ontology selected for system training will be divided into two parts: one part will be released for the training of the systems and another part will be reserved for the testing of systems in this phase. Furthermore, the evaluations will be conducted in two stages of consecutive time windows. In the first stage, only the test datasets for Task A will be released. Then the first stage evaluation window will be declared closed, i.e. no more submissions post the stage 1 evaluation period will be evaluated. Upon closing stage 1, the evaluations for stage 2 will commence. In stage 2, the test dataset for Tasks B and C will be released. This is deliberately planned to disallow for any new term types released in Task B or C test sets to influence systems' performance on the Task A test set.
 
 
-2. Zero-shot testing phase
+### 2. Zero-shot testing phase
 The zero-shot testing phase will also be organized into two stages that will run in parallel with the few-shot testing phase. The only difference is that new ontologies unseen during training will be introduced. The first stage will test for Task A and the subsequent stage will test for Tasks B and C. The zero-shot testing phase objective is to evaluate the generalizability and transferability of the LLMs developed in this challenge.   
 
+## Datasets
 
 |                    Task                    |   Task No    |        Ontology         |
 |:------------------------------------------:|:------------:|:-----------------------:|
@@ -37,3 +53,4 @@ The zero-shot testing phase will also be organized into two stages that will run
 
 * `FS` stands for Few-shot testing tasks
 * `ZS` stands for Zero-shot testing tasks
+
