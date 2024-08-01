@@ -1,0 +1,1458 @@
+[
+    {
+        "parent": "MediaObject",
+        "child": "3DModel"
+    },
+    {
+        "parent": "RadioChannel",
+        "child": "AMRadioChannel"
+    },
+    {
+        "parent": "StatusEnumeration",
+        "child": "ActionStatusType"
+    },
+    {
+        "parent": "ControlAction",
+        "child": "ActivateAction"
+    },
+    {
+        "parent": "UpdateAction",
+        "child": "AddAction"
+    },
+    {
+        "parent": "PhysicalActivityCategory",
+        "child": "AerobicActivity"
+    },
+    {
+        "parent": "Rating",
+        "child": "AggregateRating"
+    },
+    {
+        "parent": "IPTCDigitalSourceEnumeration",
+        "child": "AlgorithmicMediaDigitalSource"
+    },
+    {
+        "parent": "IPTCDigitalSourceEnumeration",
+        "child": "AlgorithmicallyEnhancedDigitalSource"
+    },
+    {
+        "parent": "DriveWheelConfigurationValue",
+        "child": "AllWheelDriveConfiguration"
+    },
+    {
+        "parent": "OrganizeAction",
+        "child": "AllocateAction"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "AmpStory"
+    },
+    {
+        "parent": "MediaObject",
+        "child": "AmpStory"
+    },
+    {
+        "parent": "PhysicalActivityCategory",
+        "child": "AnaerobicActivity"
+    },
+    {
+        "parent": "DigitalPlatformEnumeration",
+        "child": "AndroidPlatform"
+    },
+    {
+        "parent": "MedicalSpecialty",
+        "child": "Anesthesia"
+    },
+    {
+        "parent": "Residence",
+        "child": "ApartmentComplex"
+    },
+    {
+        "parent": "OrganizeAction",
+        "child": "ApplyAction"
+    },
+    {
+        "parent": "MedicalIndication",
+        "child": "ApprovedIndication"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "ArchiveComponent"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "Article"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "Atlas"
+    },
+    {
+        "parent": "MediaObject",
+        "child": "AudioObject"
+    },
+    {
+        "parent": "AudioObject",
+        "child": "AudioObjectSnapshot"
+    },
+    {
+        "parent": "AudioObject",
+        "child": "Audiobook"
+    },
+    {
+        "parent": "Book",
+        "child": "Audiobook"
+    },
+    {
+        "parent": "AutomotiveBusiness",
+        "child": "AutoBodyShop"
+    },
+    {
+        "parent": "AutomotiveBusiness",
+        "child": "AutoDealer"
+    },
+    {
+        "parent": "AutomotiveBusiness",
+        "child": "AutoRental"
+    },
+    {
+        "parent": "AutomotiveBusiness",
+        "child": "AutoRepair"
+    },
+    {
+        "parent": "AutomotiveBusiness",
+        "child": "AutoWash"
+    },
+    {
+        "parent": "PhysicalActivityCategory",
+        "child": "Balance"
+    },
+    {
+        "parent": "ImageObject",
+        "child": "Barcode"
+    },
+    {
+        "parent": "LodgingBusiness",
+        "child": "BedAndBreakfast"
+    },
+    {
+        "parent": "QualitativeValue",
+        "child": "BedType"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "Blog"
+    },
+    {
+        "parent": "SocialMediaPosting",
+        "child": "BlogPosting"
+    },
+    {
+        "parent": "BodyMeasurementTypeEnumeration",
+        "child": "BodyMeasurementArm"
+    },
+    {
+        "parent": "BodyMeasurementTypeEnumeration",
+        "child": "BodyMeasurementBust"
+    },
+    {
+        "parent": "BodyMeasurementTypeEnumeration",
+        "child": "BodyMeasurementChest"
+    },
+    {
+        "parent": "BodyMeasurementTypeEnumeration",
+        "child": "BodyMeasurementFoot"
+    },
+    {
+        "parent": "BodyMeasurementTypeEnumeration",
+        "child": "BodyMeasurementHand"
+    },
+    {
+        "parent": "BodyMeasurementTypeEnumeration",
+        "child": "BodyMeasurementHead"
+    },
+    {
+        "parent": "BodyMeasurementTypeEnumeration",
+        "child": "BodyMeasurementHeight"
+    },
+    {
+        "parent": "BodyMeasurementTypeEnumeration",
+        "child": "BodyMeasurementHips"
+    },
+    {
+        "parent": "BodyMeasurementTypeEnumeration",
+        "child": "BodyMeasurementInsideLeg"
+    },
+    {
+        "parent": "BodyMeasurementTypeEnumeration",
+        "child": "BodyMeasurementNeck"
+    },
+    {
+        "parent": "BodyMeasurementTypeEnumeration",
+        "child": "BodyMeasurementUnderbust"
+    },
+    {
+        "parent": "BodyMeasurementTypeEnumeration",
+        "child": "BodyMeasurementWaist"
+    },
+    {
+        "parent": "BodyMeasurementTypeEnumeration",
+        "child": "BodyMeasurementWeight"
+    },
+    {
+        "parent": "Landform",
+        "child": "BodyOfWater"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "Book"
+    },
+    {
+        "parent": "OrganizeAction",
+        "child": "BookmarkAction"
+    },
+    {
+        "parent": "Audience",
+        "child": "BusinessAudience"
+    },
+    {
+        "parent": "TradeAction",
+        "child": "BuyAction"
+    },
+    {
+        "parent": "StructuredValue",
+        "child": "CDCPMDRecord"
+    },
+    {
+        "parent": "MedicalSpecialty",
+        "child": "Cardiovascular"
+    },
+    {
+        "parent": "MedicalObservationalStudyDesign",
+        "child": "CaseSeries"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "Certification"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "Chapter"
+    },
+    {
+        "parent": "BioChemEntity",
+        "child": "ChemicalSubstance"
+    },
+    {
+        "parent": "AdministrativeArea",
+        "child": "City"
+    },
+    {
+        "parent": "GovernmentBuilding",
+        "child": "CityHall"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "Claim"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "Clip"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "Code"
+    },
+    {
+        "parent": "MedicalObservationalStudyDesign",
+        "child": "CohortStudy"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "Collection"
+    },
+    {
+        "parent": "EducationalOrganization",
+        "child": "CollegeOrUniversity"
+    },
+    {
+        "parent": "Periodical",
+        "child": "ComicSeries"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "ComicStory"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "Comment"
+    },
+    {
+        "parent": "MusicAlbumProductionType",
+        "child": "CompilationAlbum"
+    },
+    {
+        "parent": "IPTCDigitalSourceEnumeration",
+        "child": "CompositeCaptureDigitalSource"
+    },
+    {
+        "parent": "IPTCDigitalSourceEnumeration",
+        "child": "CompositeSyntheticDigitalSource"
+    },
+    {
+        "parent": "IPTCDigitalSourceEnumeration",
+        "child": "CompositeWithTrainedAlgorithmicMediaDigitalSource"
+    },
+    {
+        "parent": "InformAction",
+        "child": "ConfirmAction"
+    },
+    {
+        "parent": "StructuredValue",
+        "child": "ContactPoint"
+    },
+    {
+        "parent": "Landform",
+        "child": "Continent"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "Conversation"
+    },
+    {
+        "parent": "AdministrativeArea",
+        "child": "Country"
+    },
+    {
+        "parent": "GovernmentBuilding",
+        "child": "Courthouse"
+    },
+    {
+        "parent": "MedicalClinic",
+        "child": "CovidTestingFacility"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "CreativeWorkSeason"
+    },
+    {
+        "parent": "MedicalObservationalStudyDesign",
+        "child": "CrossSectional"
+    },
+    {
+        "parent": "MusicAlbumProductionType",
+        "child": "DJMixAlbum"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "DataCatalog"
+    },
+    {
+        "parent": "MediaObject",
+        "child": "DataDownload"
+    },
+    {
+        "parent": "IPTCDigitalSourceEnumeration",
+        "child": "DataDrivenMediaDigitalSource"
+    },
+    {
+        "parent": "Dataset",
+        "child": "DataFeed"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "Dataset"
+    },
+    {
+        "parent": "StructuredValue",
+        "child": "DatedMoneySpecification"
+    },
+    {
+        "parent": "ControlAction",
+        "child": "DeactivateAction"
+    },
+    {
+        "parent": "MediaManipulationRatingEnumeration",
+        "child": "DecontextualizedContent"
+    },
+    {
+        "parent": "GovernmentBuilding",
+        "child": "DefenceEstablishment"
+    },
+    {
+        "parent": "StructuredValue",
+        "child": "DefinedRegion"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "DefinedTermSet"
+    },
+    {
+        "parent": "UpdateAction",
+        "child": "DeleteAction"
+    },
+    {
+        "parent": "StructuredValue",
+        "child": "DeliveryTimeSettings"
+    },
+    {
+        "parent": "MusicAlbumProductionType",
+        "child": "DemoAlbum"
+    },
+    {
+        "parent": "GameAvailabilityEnumeration",
+        "child": "DemoGameAvailability"
+    },
+    {
+        "parent": "MedicalSpecialty",
+        "child": "Dentistry"
+    },
+    {
+        "parent": "MedicalSpecialty",
+        "child": "Dermatologic"
+    },
+    {
+        "parent": "DigitalPlatformEnumeration",
+        "child": "DesktopWebPlatform"
+    },
+    {
+        "parent": "MedicalDevicePurpose",
+        "child": "Diagnostic"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "Diet"
+    },
+    {
+        "parent": "LifestyleModification",
+        "child": "Diet"
+    },
+    {
+        "parent": "IPTCDigitalSourceEnumeration",
+        "child": "DigitalArtDigitalSource"
+    },
+    {
+        "parent": "IPTCDigitalSourceEnumeration",
+        "child": "DigitalCaptureDigitalSource"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "DigitalDocument"
+    },
+    {
+        "parent": "SocialMediaPosting",
+        "child": "DiscussionForumPosting"
+    },
+    {
+        "parent": "TradeAction",
+        "child": "DonateAction"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "Drawing"
+    },
+    {
+        "parent": "QualitativeValue",
+        "child": "DriveWheelConfigurationValue"
+    },
+    {
+        "parent": "MediaManipulationRatingEnumeration",
+        "child": "EditedOrCroppedContent"
+    },
+    {
+        "parent": "Audience",
+        "child": "EducationalAudience"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "EducationalOccupationalCredential"
+    },
+    {
+        "parent": "EducationalOrganization",
+        "child": "ElementarySchool"
+    },
+    {
+        "parent": "GovernmentBuilding",
+        "child": "Embassy"
+    },
+    {
+        "parent": "MedicalSpecialty",
+        "child": "Endocrine"
+    },
+    {
+        "parent": "Rating",
+        "child": "EndorsementRating"
+    },
+    {
+        "parent": "EnergyStarEnergyEfficiencyEnumeration",
+        "child": "EnergyStarCertified"
+    },
+    {
+        "parent": "StructuredValue",
+        "child": "EngineSpecification"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "Episode"
+    },
+    {
+        "parent": "EventStatusType",
+        "child": "EventCancelled"
+    },
+    {
+        "parent": "EventStatusType",
+        "child": "EventMovedOnline"
+    },
+    {
+        "parent": "EventStatusType",
+        "child": "EventPostponed"
+    },
+    {
+        "parent": "EventStatusType",
+        "child": "EventRescheduled"
+    },
+    {
+        "parent": "EventStatusType",
+        "child": "EventScheduled"
+    },
+    {
+        "parent": "StatusEnumeration",
+        "child": "EventStatusType"
+    },
+    {
+        "parent": "MedicalEvidenceLevel",
+        "child": "EvidenceLevelA"
+    },
+    {
+        "parent": "MedicalEvidenceLevel",
+        "child": "EvidenceLevelB"
+    },
+    {
+        "parent": "MedicalEvidenceLevel",
+        "child": "EvidenceLevelC"
+    },
+    {
+        "parent": "StructuredValue",
+        "child": "ExchangeRateSpecification"
+    },
+    {
+        "parent": "PlayAction",
+        "child": "ExerciseAction"
+    },
+    {
+        "parent": "RadioChannel",
+        "child": "FMRadioChannel"
+    },
+    {
+        "parent": "PhysicalActivityCategory",
+        "child": "Flexibility"
+    },
+    {
+        "parent": "Number",
+        "child": "Float"
+    },
+    {
+        "parent": "DriveWheelConfigurationValue",
+        "child": "FourWheelDriveConfiguration"
+    },
+    {
+        "parent": "DriveWheelConfigurationValue",
+        "child": "FrontWheelDriveConfiguration"
+    },
+    {
+        "parent": "GameAvailabilityEnumeration",
+        "child": "FullGameAvailability"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "Game"
+    },
+    {
+        "parent": "StatusEnumeration",
+        "child": "GameServerStatus"
+    },
+    {
+        "parent": "AutomotiveBusiness",
+        "child": "GasStation"
+    },
+    {
+        "parent": "MedicalSpecialty",
+        "child": "Gastroenterologic"
+    },
+    {
+        "parent": "Residence",
+        "child": "GatedResidenceCommunity"
+    },
+    {
+        "parent": "BioChemEntity",
+        "child": "Gene"
+    },
+    {
+        "parent": "DigitalPlatformEnumeration",
+        "child": "GenericWebPlatform"
+    },
+    {
+        "parent": "MedicalSpecialty",
+        "child": "Genetic"
+    },
+    {
+        "parent": "StructuredValue",
+        "child": "GeoCoordinates"
+    },
+    {
+        "parent": "StructuredValue",
+        "child": "GeoShape"
+    },
+    {
+        "parent": "Permit",
+        "child": "GovernmentPermit"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "Guide"
+    },
+    {
+        "parent": "MedicalSpecialty",
+        "child": "Hematologic"
+    },
+    {
+        "parent": "EducationalOrganization",
+        "child": "HighSchool"
+    },
+    {
+        "parent": "LodgingBusiness",
+        "child": "Hostel"
+    },
+    {
+        "parent": "LodgingBusiness",
+        "child": "Hotel"
+    },
+    {
+        "parent": "Room",
+        "child": "HotelRoom"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "HowTo"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "HyperToc"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "HyperTocEntry"
+    },
+    {
+        "parent": "DigitalPlatformEnumeration",
+        "child": "IOSPlatform"
+    },
+    {
+        "parent": "MediaGallery",
+        "child": "ImageGallery"
+    },
+    {
+        "parent": "MediaObject",
+        "child": "ImageObject"
+    },
+    {
+        "parent": "ImageObject",
+        "child": "ImageObjectSnapshot"
+    },
+    {
+        "parent": "LegalForceStatus",
+        "child": "InForce"
+    },
+    {
+        "parent": "MedicalSpecialty",
+        "child": "Infectious"
+    },
+    {
+        "parent": "Number",
+        "child": "Integer"
+    },
+    {
+        "parent": "StructuredValue",
+        "child": "InteractionCounter"
+    },
+    {
+        "parent": "PriceTypeEnumeration",
+        "child": "InvoicePrice"
+    },
+    {
+        "parent": "ItemListOrderType",
+        "child": "ItemListOrderAscending"
+    },
+    {
+        "parent": "ItemListOrderType",
+        "child": "ItemListOrderDescending"
+    },
+    {
+        "parent": "ItemListOrderType",
+        "child": "ItemListUnordered"
+    },
+    {
+        "parent": "MedicalSpecialty",
+        "child": "LaboratoryScience"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "LearningResource"
+    },
+    {
+        "parent": "StatusEnumeration",
+        "child": "LegalForceStatus"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "Legislation"
+    },
+    {
+        "parent": "GovernmentBuilding",
+        "child": "LegislativeBuilding"
+    },
+    {
+        "parent": "PhysicalActivityCategory",
+        "child": "LeisureTimeActivity"
+    },
+    {
+        "parent": "PriceTypeEnumeration",
+        "child": "ListPrice"
+    },
+    {
+        "parent": "MusicAlbumProductionType",
+        "child": "LiveAlbum"
+    },
+    {
+        "parent": "MedicalObservationalStudyDesign",
+        "child": "Longitudinal"
+    },
+    {
+        "parent": "AchieveAction",
+        "child": "LoseAction"
+    },
+    {
+        "parent": "PriceTypeEnumeration",
+        "child": "MSRP"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "Manuscript"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "Map"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "MathSolver"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "MediaObject"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "MediaReviewItem"
+    },
+    {
+        "parent": "MedicalRiskEstimator",
+        "child": "MedicalRiskCalculator"
+    },
+    {
+        "parent": "MedicalRiskEstimator",
+        "child": "MedicalRiskScore"
+    },
+    {
+        "parent": "Room",
+        "child": "MeetingRoom"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "Menu"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "MenuSection"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "Message"
+    },
+    {
+        "parent": "EducationalOrganization",
+        "child": "MiddleSchool"
+    },
+    {
+        "parent": "PriceTypeEnumeration",
+        "child": "MinimumAdvertisedPrice"
+    },
+    {
+        "parent": "IPTCDigitalSourceEnumeration",
+        "child": "MinorHumanEditsDigitalSource"
+    },
+    {
+        "parent": "MusicAlbumProductionType",
+        "child": "MixtapeAlbum"
+    },
+    {
+        "parent": "DigitalPlatformEnumeration",
+        "child": "MobileWebPlatform"
+    },
+    {
+        "parent": "BioChemEntity",
+        "child": "MolecularEntity"
+    },
+    {
+        "parent": "StructuredValue",
+        "child": "MonetaryAmount"
+    },
+    {
+        "parent": "Grant",
+        "child": "MonetaryGrant"
+    },
+    {
+        "parent": "LoanOrCredit",
+        "child": "MortgageLoan"
+    },
+    {
+        "parent": "LodgingBusiness",
+        "child": "Motel"
+    },
+    {
+        "parent": "AutomotiveBusiness",
+        "child": "MotorcycleDealer"
+    },
+    {
+        "parent": "AutomotiveBusiness",
+        "child": "MotorcycleRepair"
+    },
+    {
+        "parent": "Landform",
+        "child": "Mountain"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "Movie"
+    },
+    {
+        "parent": "Clip",
+        "child": "MovieClip"
+    },
+    {
+        "parent": "MedicalSpecialty",
+        "child": "Musculoskeletal"
+    },
+    {
+        "parent": "MusicPlaylist",
+        "child": "MusicAlbum"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "MusicComposition"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "MusicPlaylist"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "MusicRecording"
+    },
+    {
+        "parent": "MusicPlaylist",
+        "child": "MusicRelease"
+    },
+    {
+        "parent": "MediaObject",
+        "child": "MusicVideoObject"
+    },
+    {
+        "parent": "IPTCDigitalSourceEnumeration",
+        "child": "NegativeFilmDigitalSource"
+    },
+    {
+        "parent": "MedicalSpecialty",
+        "child": "Neurologic"
+    },
+    {
+        "parent": "Periodical",
+        "child": "Newspaper"
+    },
+    {
+        "parent": "MedicalProcedureType",
+        "child": "NoninvasiveProcedure"
+    },
+    {
+        "parent": "LegalForceStatus",
+        "child": "NotInForce"
+    },
+    {
+        "parent": "StructuredValue",
+        "child": "NutritionInformation"
+    },
+    {
+        "parent": "MedicalObservationalStudyDesign",
+        "child": "Observational"
+    },
+    {
+        "parent": "PhysicalActivityCategory",
+        "child": "OccupationalActivity"
+    },
+    {
+        "parent": "MedicalTherapy",
+        "child": "OccupationalTherapy"
+    },
+    {
+        "parent": "StructuredValue",
+        "child": "OfferShippingDetails"
+    },
+    {
+        "parent": "GameServerStatus",
+        "child": "OfflinePermanently"
+    },
+    {
+        "parent": "GameServerStatus",
+        "child": "OfflineTemporarily"
+    },
+    {
+        "parent": "GameServerStatus",
+        "child": "Online"
+    },
+    {
+        "parent": "GameServerStatus",
+        "child": "OnlineFull"
+    },
+    {
+        "parent": "StructuredValue",
+        "child": "OpeningHoursSpecification"
+    },
+    {
+        "parent": "TradeAction",
+        "child": "OrderAction"
+    },
+    {
+        "parent": "StatusEnumeration",
+        "child": "OrderStatus"
+    },
+    {
+        "parent": "MediaManipulationRatingEnumeration",
+        "child": "OriginalMediaContent"
+    },
+    {
+        "parent": "StructuredValue",
+        "child": "OwnershipInfo"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "Painting"
+    },
+    {
+        "parent": "MapCategoryType",
+        "child": "ParkingMap"
+    },
+    {
+        "parent": "LegalForceStatus",
+        "child": "PartiallyInForce"
+    },
+    {
+        "parent": "MedicalSpecialty",
+        "child": "Pathology"
+    },
+    {
+        "parent": "MedicalAudience",
+        "child": "Patient"
+    },
+    {
+        "parent": "Person",
+        "child": "Patient"
+    },
+    {
+        "parent": "TradeAction",
+        "child": "PayAction"
+    },
+    {
+        "parent": "StatusEnumeration",
+        "child": "PaymentStatusType"
+    },
+    {
+        "parent": "Audience",
+        "child": "PeopleAudience"
+    },
+    {
+        "parent": "MedicalProcedureType",
+        "child": "PercutaneousProcedure"
+    },
+    {
+        "parent": "PlayAction",
+        "child": "PerformAction"
+    },
+    {
+        "parent": "MedicalSpecialty",
+        "child": "PharmacySpecialty"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "Photograph"
+    },
+    {
+        "parent": "LifestyleModification",
+        "child": "PhysicalActivity"
+    },
+    {
+        "parent": "MedicalTherapy",
+        "child": "PhysicalTherapy"
+    },
+    {
+        "parent": "OrganizeAction",
+        "child": "PlanAction"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "Play"
+    },
+    {
+        "parent": "CreativeWorkSeason",
+        "child": "PodcastSeason"
+    },
+    {
+        "parent": "IPTCDigitalSourceEnumeration",
+        "child": "PositiveFilmDigitalSource"
+    },
+    {
+        "parent": "StructuredValue",
+        "child": "PostalCodeRangeSpecification"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "Poster"
+    },
+    {
+        "parent": "TradeAction",
+        "child": "PreOrderAction"
+    },
+    {
+        "parent": "EducationalOrganization",
+        "child": "Preschool"
+    },
+    {
+        "parent": "MedicalIndication",
+        "child": "PreventionIndication"
+    },
+    {
+        "parent": "StructuredValue",
+        "child": "PriceSpecification"
+    },
+    {
+        "parent": "IPTCDigitalSourceEnumeration",
+        "child": "PrintDigitalSource"
+    },
+    {
+        "parent": "StructuredValue",
+        "child": "PropertyValue"
+    },
+    {
+        "parent": "BioChemEntity",
+        "child": "Protein"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "PublicationIssue"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "PublicationVolume"
+    },
+    {
+        "parent": "MedicalSpecialty",
+        "child": "Pulmonary"
+    },
+    {
+        "parent": "StructuredValue",
+        "child": "QuantitativeValue"
+    },
+    {
+        "parent": "StructuredValue",
+        "child": "QuantitativeValueDistribution"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "Quotation"
+    },
+    {
+        "parent": "TradeAction",
+        "child": "QuoteAction"
+    },
+    {
+        "parent": "MedicalTherapy",
+        "child": "RadiationTherapy"
+    },
+    {
+        "parent": "Clip",
+        "child": "RadioClip"
+    },
+    {
+        "parent": "CreativeWorkSeason",
+        "child": "RadioSeason"
+    },
+    {
+        "parent": "DriveWheelConfigurationValue",
+        "child": "RearWheelDriveConfiguration"
+    },
+    {
+        "parent": "HowTo",
+        "child": "Recipe"
+    },
+    {
+        "parent": "MedicalObservationalStudyDesign",
+        "child": "Registry"
+    },
+    {
+        "parent": "MusicAlbumProductionType",
+        "child": "RemixAlbum"
+    },
+    {
+        "parent": "MedicalSpecialty",
+        "child": "Renal"
+    },
+    {
+        "parent": "TradeAction",
+        "child": "RentAction"
+    },
+    {
+        "parent": "StructuredValue",
+        "child": "RepaymentSpecification"
+    },
+    {
+        "parent": "UpdateAction",
+        "child": "ReplaceAction"
+    },
+    {
+        "parent": "Audience",
+        "child": "Researcher"
+    },
+    {
+        "parent": "StatusEnumeration",
+        "child": "ReservationStatusType"
+    },
+    {
+        "parent": "LodgingBusiness",
+        "child": "Resort"
+    },
+    {
+        "parent": "MedicalTherapy",
+        "child": "RespiratoryTherapy"
+    },
+    {
+        "parent": "MedicalSpecialty",
+        "child": "RespiratoryTherapy"
+    },
+    {
+        "parent": "ControlAction",
+        "child": "ResumeAction"
+    },
+    {
+        "parent": "ReturnLabelSourceEnumeration",
+        "child": "ReturnLabelCustomerResponsibility"
+    },
+    {
+        "parent": "ReturnLabelSourceEnumeration",
+        "child": "ReturnLabelDownloadAndPrint"
+    },
+    {
+        "parent": "ReturnLabelSourceEnumeration",
+        "child": "ReturnLabelInBox"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "Review"
+    },
+    {
+        "parent": "MedicalSpecialty",
+        "child": "Rheumatologic"
+    },
+    {
+        "parent": "InformAction",
+        "child": "RsvpAction"
+    },
+    {
+        "parent": "PriceTypeEnumeration",
+        "child": "SRP"
+    },
+    {
+        "parent": "PriceTypeEnumeration",
+        "child": "SalePrice"
+    },
+    {
+        "parent": "MediaManipulationRatingEnumeration",
+        "child": "SatireOrParodyContent"
+    },
+    {
+        "parent": "EducationalOrganization",
+        "child": "School"
+    },
+    {
+        "parent": "AdministrativeArea",
+        "child": "SchoolDistrict"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "Sculpture"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "Season"
+    },
+    {
+        "parent": "MapCategoryType",
+        "child": "SeatingMap"
+    },
+    {
+        "parent": "TradeAction",
+        "child": "SellAction"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "SheetMusic"
+    },
+    {
+        "parent": "StructuredValue",
+        "child": "ShippingDeliveryTime"
+    },
+    {
+        "parent": "StructuredValue",
+        "child": "ShippingRateSettings"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "ShortStory"
+    },
+    {
+        "parent": "QualitativeValue",
+        "child": "SizeSpecification"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "SoftwareApplication"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "SoftwareSourceCode"
+    },
+    {
+        "parent": "MusicAlbumProductionType",
+        "child": "SoundtrackAlbum"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "SpecialAnnouncement"
+    },
+    {
+        "parent": "MedicalSpecialty",
+        "child": "SpeechPathology"
+    },
+    {
+        "parent": "MusicAlbumProductionType",
+        "child": "SpokenWordAlbum"
+    },
+    {
+        "parent": "MediaManipulationRatingEnumeration",
+        "child": "StagedContent"
+    },
+    {
+        "parent": "AdministrativeArea",
+        "child": "State"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "Statement"
+    },
+    {
+        "parent": "ConstraintNode",
+        "child": "StatisticalVariable"
+    },
+    {
+        "parent": "QualitativeValue",
+        "child": "SteeringPositionValue"
+    },
+    {
+        "parent": "PhysicalActivityCategory",
+        "child": "StrengthTraining"
+    },
+    {
+        "parent": "MusicAlbumProductionType",
+        "child": "StudioAlbum"
+    },
+    {
+        "parent": "MedicalSpecialty",
+        "child": "Surgical"
+    },
+    {
+        "parent": "ControlAction",
+        "child": "SuspendAction"
+    },
+    {
+        "parent": "Clip",
+        "child": "TVClip"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "TVSeason"
+    },
+    {
+        "parent": "CreativeWorkSeason",
+        "child": "TVSeason"
+    },
+    {
+        "parent": "MediaObject",
+        "child": "TextObject"
+    },
+    {
+        "parent": "MedicalDevicePurpose",
+        "child": "Therapeutic"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "Thesis"
+    },
+    {
+        "parent": "AchieveAction",
+        "child": "TieAction"
+    },
+    {
+        "parent": "TradeAction",
+        "child": "TipAction"
+    },
+    {
+        "parent": "MedicalSpecialty",
+        "child": "Toxicologic"
+    },
+    {
+        "parent": "IPTCDigitalSourceEnumeration",
+        "child": "TrainedAlgorithmicMediaDigitalSource"
+    },
+    {
+        "parent": "MediaManipulationRatingEnumeration",
+        "child": "TransformedContent"
+    },
+    {
+        "parent": "MapCategoryType",
+        "child": "TransitMap"
+    },
+    {
+        "parent": "MedicalIndication",
+        "child": "TreatmentIndication"
+    },
+    {
+        "parent": "StructuredValue",
+        "child": "TypeAndQuantityNode"
+    },
+    {
+        "parent": "MedicalSpecialty",
+        "child": "Urologic"
+    },
+    {
+        "parent": "UserInteraction",
+        "child": "UserBlocks"
+    },
+    {
+        "parent": "UserInteraction",
+        "child": "UserCheckins"
+    },
+    {
+        "parent": "UserInteraction",
+        "child": "UserComments"
+    },
+    {
+        "parent": "UserInteraction",
+        "child": "UserDownloads"
+    },
+    {
+        "parent": "UserInteraction",
+        "child": "UserLikes"
+    },
+    {
+        "parent": "UserInteraction",
+        "child": "UserPageVisits"
+    },
+    {
+        "parent": "UserInteraction",
+        "child": "UserPlays"
+    },
+    {
+        "parent": "UserInteraction",
+        "child": "UserPlusOnes"
+    },
+    {
+        "parent": "UserInteraction",
+        "child": "UserTweets"
+    },
+    {
+        "parent": "LodgingBusiness",
+        "child": "VacationRental"
+    },
+    {
+        "parent": "MapCategoryType",
+        "child": "VenueMap"
+    },
+    {
+        "parent": "MediaGallery",
+        "child": "VideoGallery"
+    },
+    {
+        "parent": "Clip",
+        "child": "VideoGameClip"
+    },
+    {
+        "parent": "MediaObject",
+        "child": "VideoObject"
+    },
+    {
+        "parent": "VideoObject",
+        "child": "VideoObjectSnapshot"
+    },
+    {
+        "parent": "IPTCDigitalSourceEnumeration",
+        "child": "VirtualRecordingDigitalSource"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "VisualArtwork"
+    },
+    {
+        "parent": "Landform",
+        "child": "Volcano"
+    },
+    {
+        "parent": "ChooseAction",
+        "child": "VoteAction"
+    },
+    {
+        "parent": "StructuredValue",
+        "child": "WarrantyPromise"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "WebContent"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "WebPage"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "WebPageElement"
+    },
+    {
+        "parent": "CreativeWork",
+        "child": "WebSite"
+    },
+    {
+        "parent": "AchieveAction",
+        "child": "WinAction"
+    },
+    {
+        "parent": "EducationalOccupationalProgram",
+        "child": "WorkBasedProgram"
+    }
+]

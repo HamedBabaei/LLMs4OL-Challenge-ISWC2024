@@ -1,0 +1,212 @@
+parish
+section of canal
+borderland
+sand area
+mesa
+railroad tunnel
+limekiln
+bench
+tower
+zone
+trough
+section of waterfall(s)
+stream mouth(s)
+bank(s)
+united states government establishment
+intermittent wetland
+plain
+bay
+section of reef
+promenade
+coast
+abandoned railroad
+historical administrative division 
+islet
+swamp
+wetland
+resthouse
+blowout(s)
+ditch mouth(s)
+religious populated place
+oil well
+section of independent political entity
+cleft(s)
+isthmus
+artificial island
+ridges
+abandoned railroad stop
+stream, lake
+second-order administrative division
+observatory
+transit terminal
+airfield
+rock desert
+intermittent salt lakes
+sawmill
+marina
+coast guard station
+ruin(s)
+historical site
+pyramid
+island
+sinkhole
+canyon
+forest station
+terminal
+basin
+sea
+ancient road
+dry stream bed
+seachannels
+vineyards
+battlefield
+seat of a first-order administrative division
+irrigation ditch
+beach
+knoll
+automatic teller machine
+lakes
+section of island
+sluice
+section of lake
+nursery(-ies)
+lake bed(s)
+harbor(s)
+abandoned oil well
+dry dock
+political entity
+restaurant
+cliff(s)
+theater
+agricultural facility
+road, railroad
+whirlpool
+gap
+causeway
+historical second-order administrative division
+levee
+valley
+mountain, hill, rock
+hunting reserve
+fuel depot
+library
+gasfield
+monument
+building(s)
+cape
+underground lake
+section of peninsula
+stream
+caldera
+power station
+mangrove island
+language school
+seat of government of a political entity
+docking basin
+estate(s)
+oil pipeline junction
+park gate
+estuary
+canalized stream
+casino
+communication center
+mining camp
+hydroelectric power station
+tank farm
+oxbow lake
+park
+bank
+escarpment (or scarp)
+delta
+abandoned populated place
+first-order administrative division
+ditch
+forest, heath
+hills
+mangrove swamp
+grove
+spot, building, farm
+apartment building
+toll gate/barrier
+intermittent reservoir
+clearing
+overfalls
+parks, area
+ford
+patrol post
+park headquarters
+headland
+mountain
+windmill
+jetty
+hanging valley
+veterinary facility
+badlands
+spit
+semi-independent political entity
+metro station
+observation point
+monastery
+olive oil mill
+rockfall
+independent political entity
+fort
+refugee camp
+section of harbor
+technical school
+nunatak
+pine grove
+section of valley
+wildlife reserve
+wadies
+business center
+wall
+facility
+country house
+undersea
+stable
+canyons
+blowhole(s)
+dairy
+temple(s)
+military school
+administrative facility
+tablemount (or guyot)
+huts
+cirques
+wadi bend
+watercourse
+oasis(-es)
+ruined dam
+street
+archaeological/prehistoric site
+stream bank
+tomb(s)
+arctic land
+bight(s)
+intermittent lakes
+reservation
+historical third-order administrative division
+oil pipeline
+terrace
+beacon
+tidal creek(s)
+gas-oil separator plant
+country, state, region
+area
+farms
+populated places
+road tunnel
+israeli settlement
+astronomical station
+dune(s)
+promontory(-ies)
+reef
+diplomatic facility
+water mill
+lake region
+intermittent salt lake
+city, village
+crater lake
+waterworks
+pans

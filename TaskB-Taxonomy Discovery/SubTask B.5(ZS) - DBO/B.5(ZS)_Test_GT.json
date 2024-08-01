@@ -1,0 +1,2970 @@
+[
+    {
+        "parent": "company",
+        "child": "publisher"
+    },
+    {
+        "parent": "topical concept",
+        "child": "genre"
+    },
+    {
+        "parent": "animal",
+        "child": "person"
+    },
+    {
+        "parent": "artist",
+        "child": "actor"
+    },
+    {
+        "parent": "organisation",
+        "child": "company"
+    },
+    {
+        "parent": "place",
+        "child": "celestial body"
+    },
+    {
+        "parent": "unit of work",
+        "child": "case"
+    },
+    {
+        "parent": "work",
+        "child": "software"
+    },
+    {
+        "parent": "work",
+        "child": "document"
+    },
+    {
+        "parent": "topical concept",
+        "child": "type"
+    },
+    {
+        "parent": "governmental administrative region",
+        "child": "department"
+    },
+    {
+        "parent": "educational institution",
+        "child": "school"
+    },
+    {
+        "parent": "organisation",
+        "child": "non-profit organisation"
+    },
+    {
+        "parent": "organisation",
+        "child": "broadcaster"
+    },
+    {
+        "parent": "person",
+        "child": "organisation member"
+    },
+    {
+        "parent": "place",
+        "child": "natural place"
+    },
+    {
+        "parent": "biomolecule",
+        "child": "gene"
+    },
+    {
+        "parent": "case",
+        "child": "legal case"
+    },
+    {
+        "parent": "unit of work",
+        "child": "project"
+    },
+    {
+        "parent": "athlete",
+        "child": "gridiron football player"
+    },
+    {
+        "parent": "athlete",
+        "child": "motorsport racer"
+    },
+    {
+        "parent": "populated place",
+        "child": "region"
+    },
+    {
+        "parent": "architectural structure",
+        "child": "infrastructure"
+    },
+    {
+        "parent": "event",
+        "child": "natural event"
+    },
+    {
+        "parent": "organisation",
+        "child": "group"
+    },
+    {
+        "parent": "sports event",
+        "child": "race"
+    },
+    {
+        "parent": "written work",
+        "child": "periodical literature"
+    },
+    {
+        "parent": "document",
+        "child": "image"
+    },
+    {
+        "parent": "infrastructure",
+        "child": "route of transportation"
+    },
+    {
+        "parent": "work",
+        "child": "database"
+    },
+    {
+        "parent": "sports team",
+        "child": "australian football team"
+    },
+    {
+        "parent": "administrative region",
+        "child": "clerical administrative region"
+    },
+    {
+        "parent": "event",
+        "child": "societal event"
+    },
+    {
+        "parent": "organisation",
+        "child": "sports club"
+    },
+    {
+        "parent": "organisation",
+        "child": "sports team"
+    },
+    {
+        "parent": "plant",
+        "child": "flowering plant"
+    },
+    {
+        "parent": "plant",
+        "child": "gnetophytes"
+    },
+    {
+        "parent": "plant",
+        "child": "conifer"
+    },
+    {
+        "parent": "sports event",
+        "child": "tournament"
+    },
+    {
+        "parent": "sports league",
+        "child": "inline hockey league"
+    },
+    {
+        "parent": "sports season",
+        "child": "sports team season"
+    },
+    {
+        "parent": "person",
+        "child": "academic person"
+    },
+    {
+        "parent": "actor",
+        "child": "adult (pornographic) actor"
+    },
+    {
+        "parent": "societal event",
+        "child": "academic conference"
+    },
+    {
+        "parent": "sport facility",
+        "child": "race track"
+    },
+    {
+        "parent": "governmental administrative region",
+        "child": "municipality"
+    },
+    {
+        "parent": "animal",
+        "child": "amphibian"
+    },
+    {
+        "parent": "boxer",
+        "child": "amateur boxer"
+    },
+    {
+        "parent": "architectural structure",
+        "child": "sport facility"
+    },
+    {
+        "parent": "architectural structure",
+        "child": "tower"
+    },
+    {
+        "parent": "administrative region",
+        "child": "governmental administrative region"
+    },
+    {
+        "parent": "body of water",
+        "child": "stream"
+    },
+    {
+        "parent": "politician",
+        "child": "ambassador"
+    },
+    {
+        "parent": "sports league",
+        "child": "bowling league"
+    },
+    {
+        "parent": "person",
+        "child": "architect"
+    },
+    {
+        "parent": "person",
+        "child": "astronaut"
+    },
+    {
+        "parent": "person",
+        "child": "athlete"
+    },
+    {
+        "parent": "anatomical structure",
+        "child": "artery"
+    },
+    {
+        "parent": "animal",
+        "child": "arachnid"
+    },
+    {
+        "parent": "athlete",
+        "child": "australian rules football player"
+    },
+    {
+        "parent": "christian bishop",
+        "child": "archbishop"
+    },
+    {
+        "parent": "eukaryote",
+        "child": "animal"
+    },
+    {
+        "parent": "species",
+        "child": "archaea"
+    },
+    {
+        "parent": "sports league",
+        "child": "australian football league"
+    },
+    {
+        "parent": "person",
+        "child": "beauty queen"
+    },
+    {
+        "parent": "database",
+        "child": "biological database"
+    },
+    {
+        "parent": "anatomical structure",
+        "child": "bone"
+    },
+    {
+        "parent": "athlete",
+        "child": "badminton player"
+    },
+    {
+        "parent": "athlete",
+        "child": "baseball player"
+    },
+    {
+        "parent": "athlete",
+        "child": "basketball player"
+    },
+    {
+        "parent": "athlete",
+        "child": "bodybuilder"
+    },
+    {
+        "parent": "athlete",
+        "child": "boxer"
+    },
+    {
+        "parent": "species",
+        "child": "bacteria"
+    },
+    {
+        "parent": "volleyball player",
+        "child": "beach volleyball player"
+    },
+    {
+        "parent": "sports league",
+        "child": "auto racing league"
+    },
+    {
+        "parent": "sports league",
+        "child": "baseball league"
+    },
+    {
+        "parent": "company",
+        "child": "brewery"
+    },
+    {
+        "parent": "person",
+        "child": "businessperson"
+    },
+    {
+        "parent": "person",
+        "child": "chef"
+    },
+    {
+        "parent": "natural place",
+        "child": "cave"
+    },
+    {
+        "parent": "stream",
+        "child": "canal"
+    },
+    {
+        "parent": "anatomical structure",
+        "child": "brain"
+    },
+    {
+        "parent": "athlete",
+        "child": "canoeist"
+    },
+    {
+        "parent": "athlete",
+        "child": "chess player"
+    },
+    {
+        "parent": "cleric",
+        "child": "cardinal"
+    },
+    {
+        "parent": "cleric",
+        "child": "christian bishop"
+    },
+    {
+        "parent": "time period",
+        "child": "career station"
+    },
+    {
+        "parent": "building",
+        "child": "castle"
+    },
+    {
+        "parent": "food",
+        "child": "cheese"
+    },
+    {
+        "parent": "person",
+        "child": "cleric"
+    },
+    {
+        "parent": "natural place",
+        "child": "crater"
+    },
+    {
+        "parent": "sport facility",
+        "child": "cricket ground"
+    },
+    {
+        "parent": "animal",
+        "child": "crustacean"
+    },
+    {
+        "parent": "athlete",
+        "child": "cricketer"
+    },
+    {
+        "parent": "coach",
+        "child": "college coach"
+    },
+    {
+        "parent": "winter sport player",
+        "child": "curler"
+    },
+    {
+        "parent": "artist",
+        "child": "comedian"
+    },
+    {
+        "parent": "artist",
+        "child": "comics creator"
+    },
+    {
+        "parent": "comic",
+        "child": "comic strip"
+    },
+    {
+        "parent": "drug",
+        "child": "combination drug"
+    },
+    {
+        "parent": "musical artist",
+        "child": "classical music artist"
+    },
+    {
+        "parent": "politician",
+        "child": "congressman"
+    },
+    {
+        "parent": "venue",
+        "child": "cinema (movie theater)"
+    },
+    {
+        "parent": "person",
+        "child": "economist"
+    },
+    {
+        "parent": "person",
+        "child": "engineer"
+    },
+    {
+        "parent": "agent",
+        "child": "deity"
+    },
+    {
+        "parent": "infrastructure",
+        "child": "dam"
+    },
+    {
+        "parent": "animal",
+        "child": "fish"
+    },
+    {
+        "parent": "athlete",
+        "child": "cyclist"
+    },
+    {
+        "parent": "athlete",
+        "child": "darts player"
+    },
+    {
+        "parent": "scientist",
+        "child": "entomologist"
+    },
+    {
+        "parent": "species",
+        "child": "eukaryote"
+    },
+    {
+        "parent": "winter sport player",
+        "child": "figure skater"
+    },
+    {
+        "parent": "artist",
+        "child": "dancer"
+    },
+    {
+        "parent": "artist",
+        "child": "fashion designer"
+    },
+    {
+        "parent": "organisation",
+        "child": "educational institution"
+    },
+    {
+        "parent": "name",
+        "child": "given name"
+    },
+    {
+        "parent": "place",
+        "child": "garden"
+    },
+    {
+        "parent": "natural place",
+        "child": "glacier"
+    },
+    {
+        "parent": "flowering plant",
+        "child": "grape"
+    },
+    {
+        "parent": "sports team",
+        "child": "formula 1 team"
+    },
+    {
+        "parent": "sports team",
+        "child": "handball team"
+    },
+    {
+        "parent": "sport facility",
+        "child": "golf course"
+    },
+    {
+        "parent": "municipality",
+        "child": "one-time municipality"
+    },
+    {
+        "parent": "athlete",
+        "child": "gaelic games player"
+    },
+    {
+        "parent": "athlete",
+        "child": "golf player"
+    },
+    {
+        "parent": "athlete",
+        "child": "gymnast"
+    },
+    {
+        "parent": "athlete",
+        "child": "handball player"
+    },
+    {
+        "parent": "eukaryote",
+        "child": "پھُپھُوندی"
+    },
+    {
+        "parent": "politician",
+        "child": "governor"
+    },
+    {
+        "parent": "writer",
+        "child": "historian"
+    },
+    {
+        "parent": "person",
+        "child": "horse trainer"
+    },
+    {
+        "parent": "person",
+        "child": "journalist"
+    },
+    {
+        "parent": "societal event",
+        "child": "historical event"
+    },
+    {
+        "parent": "tower",
+        "child": "lighthouse"
+    },
+    {
+        "parent": "animal",
+        "child": "mammal"
+    },
+    {
+        "parent": "athlete",
+        "child": "jockey (horse racer)"
+    },
+    {
+        "parent": "athlete",
+        "child": "lacrosse player"
+    },
+    {
+        "parent": "mammal",
+        "child": "horse"
+    },
+    {
+        "parent": "populated place",
+        "child": "island"
+    },
+    {
+        "parent": "scientist",
+        "child": "medician"
+    },
+    {
+        "parent": "winter sport player",
+        "child": "ice hockey player"
+    },
+    {
+        "parent": "politician",
+        "child": "mayor"
+    },
+    {
+        "parent": "politician",
+        "child": "member of parliament"
+    },
+    {
+        "parent": "religious",
+        "child": "jewishleader"
+    },
+    {
+        "parent": "religious",
+        "child": "latter day saint"
+    },
+    {
+        "parent": "person",
+        "child": "model"
+    },
+    {
+        "parent": "person",
+        "child": "noble"
+    },
+    {
+        "parent": "chemical substance",
+        "child": "mineral"
+    },
+    {
+        "parent": "mean of transportation",
+        "child": "motorcycle"
+    },
+    {
+        "parent": "motorsport racer",
+        "child": "motorcycle rider"
+    },
+    {
+        "parent": "natural place",
+        "child": "mountain pass"
+    },
+    {
+        "parent": "anatomical structure",
+        "child": "muscle"
+    },
+    {
+        "parent": "anatomical structure",
+        "child": "nerve"
+    },
+    {
+        "parent": "animal",
+        "child": "mollusca"
+    },
+    {
+        "parent": "athlete",
+        "child": "netball player"
+    },
+    {
+        "parent": "career station",
+        "child": "military service"
+    },
+    {
+        "parent": "artist",
+        "child": "painter"
+    },
+    {
+        "parent": "artist",
+        "child": "photographer"
+    },
+    {
+        "parent": "drug",
+        "child": "monoclonal antibody"
+    },
+    {
+        "parent": "racing driver",
+        "child": "nascar driver"
+    },
+    {
+        "parent": "sports event",
+        "child": "national football league event"
+    },
+    {
+        "parent": "sports league",
+        "child": "mixed martial arts league"
+    },
+    {
+        "parent": "sports league",
+        "child": "motorcycle racing league"
+    },
+    {
+        "parent": "written work",
+        "child": "poem"
+    },
+    {
+        "parent": "fictional character",
+        "child": "mythological figure"
+    },
+    {
+        "parent": "company",
+        "child": "public transit system"
+    },
+    {
+        "parent": "person",
+        "child": "police officer"
+    },
+    {
+        "parent": "place",
+        "child": "populated place"
+    },
+    {
+        "parent": "mean of transportation",
+        "child": "rocket"
+    },
+    {
+        "parent": "route of transportation",
+        "child": "railway tunnel"
+    },
+    {
+        "parent": "race track",
+        "child": "racecourse"
+    },
+    {
+        "parent": "athlete",
+        "child": "poker player"
+    },
+    {
+        "parent": "cleric",
+        "child": "priest"
+    },
+    {
+        "parent": "building",
+        "child": "prison"
+    },
+    {
+        "parent": "politician",
+        "child": "president"
+    },
+    {
+        "parent": "politician",
+        "child": "prime minister"
+    },
+    {
+        "parent": "religious",
+        "child": "rebbe"
+    },
+    {
+        "parent": "royalty",
+        "child": "pretender"
+    },
+    {
+        "parent": "sports league",
+        "child": "polo league"
+    },
+    {
+        "parent": "station",
+        "child": "train station"
+    },
+    {
+        "parent": "writer",
+        "child": "poet"
+    },
+    {
+        "parent": "activity",
+        "child": "sport"
+    },
+    {
+        "parent": "person",
+        "child": "scientist"
+    },
+    {
+        "parent": "place",
+        "child": "site of special scientific interest"
+    },
+    {
+        "parent": "sport facility",
+        "child": "ski area"
+    },
+    {
+        "parent": "athlete",
+        "child": "sailor"
+    },
+    {
+        "parent": "athlete",
+        "child": "snooker player"
+    },
+    {
+        "parent": "athlete",
+        "child": "soccer player"
+    },
+    {
+        "parent": "motorcycle rider",
+        "child": "speedway rider"
+    },
+    {
+        "parent": "sports manager",
+        "child": "soccer manager"
+    },
+    {
+        "parent": "winter sport player",
+        "child": "skater"
+    },
+    {
+        "parent": "winter sport player",
+        "child": "skier"
+    },
+    {
+        "parent": "body of water",
+        "child": "sea"
+    },
+    {
+        "parent": "building",
+        "child": "skyscraper"
+    },
+    {
+        "parent": "writer",
+        "child": "screenwriter"
+    },
+    {
+        "parent": "fictional character",
+        "child": "soap character"
+    },
+    {
+        "parent": "company",
+        "child": "winery"
+    },
+    {
+        "parent": "person",
+        "child": "spy"
+    },
+    {
+        "parent": "place",
+        "child": "wine region"
+    },
+    {
+        "parent": "place",
+        "child": "world heritage site"
+    },
+    {
+        "parent": "natural place",
+        "child": "volcano"
+    },
+    {
+        "parent": "anatomical structure",
+        "child": "vein"
+    },
+    {
+        "parent": "athlete",
+        "child": "squash player"
+    },
+    {
+        "parent": "athlete",
+        "child": "swimmer"
+    },
+    {
+        "parent": "athlete",
+        "child": "table tennis player"
+    },
+    {
+        "parent": "athlete",
+        "child": "tennis player"
+    },
+    {
+        "parent": "athlete",
+        "child": "volleyball player"
+    },
+    {
+        "parent": "wrestler",
+        "child": "sumo wrestler"
+    },
+    {
+        "parent": "architectural structure",
+        "child": "tunnel"
+    },
+    {
+        "parent": "presenter",
+        "child": "television host"
+    },
+    {
+        "parent": "company",
+        "child": "law firm"
+    },
+    {
+        "parent": "person",
+        "child": "military person"
+    },
+    {
+        "parent": "broadcaster",
+        "child": "broadcast network"
+    },
+    {
+        "parent": "celestial body",
+        "child": "galaxy"
+    },
+    {
+        "parent": "route of transportation",
+        "child": "waterway tunnel"
+    },
+    {
+        "parent": "work",
+        "child": "musical work"
+    },
+    {
+        "parent": "sports team",
+        "child": "cricket team"
+    },
+    {
+        "parent": "sports team",
+        "child": "speedway team"
+    },
+    {
+        "parent": "stream",
+        "child": "river"
+    },
+    {
+        "parent": "topical concept",
+        "child": "fashion"
+    },
+    {
+        "parent": "athlete",
+        "child": "martial artist"
+    },
+    {
+        "parent": "coach",
+        "child": "american football coach"
+    },
+    {
+        "parent": "comics character",
+        "child": "animanga character"
+    },
+    {
+        "parent": "plant",
+        "child": "green alga"
+    },
+    {
+        "parent": "sports league",
+        "child": "volleyball league"
+    },
+    {
+        "parent": "drug",
+        "child": "vaccine"
+    },
+    {
+        "parent": "venue",
+        "child": "stadium"
+    },
+    {
+        "parent": "person",
+        "child": "youtuber"
+    },
+    {
+        "parent": "person",
+        "child": "american leader"
+    },
+    {
+        "parent": "person",
+        "child": "judge"
+    },
+    {
+        "parent": "place",
+        "child": "concentration camp"
+    },
+    {
+        "parent": "anatomical structure",
+        "child": "ligament"
+    },
+    {
+        "parent": "anatomical structure",
+        "child": "lymph"
+    },
+    {
+        "parent": "athlete",
+        "child": "wrestler"
+    },
+    {
+        "parent": "athlete",
+        "child": "national collegiate athletic association athlete"
+    },
+    {
+        "parent": "cleric",
+        "child": "christian patriarch"
+    },
+    {
+        "parent": "educational institution",
+        "child": "college"
+    },
+    {
+        "parent": "populated place",
+        "child": "continent"
+    },
+    {
+        "parent": "racing driver",
+        "child": "formula one racer"
+    },
+    {
+        "parent": "instrumentalist",
+        "child": "guitarist"
+    },
+    {
+        "parent": "name",
+        "child": "surname"
+    },
+    {
+        "parent": "person",
+        "child": "pilot"
+    },
+    {
+        "parent": "person",
+        "child": "playboy playmate"
+    },
+    {
+        "parent": "actor",
+        "child": "voice actor"
+    },
+    {
+        "parent": "clerical administrative region",
+        "child": "diocese"
+    },
+    {
+        "parent": "anatomical structure",
+        "child": "embryology"
+    },
+    {
+        "parent": "athlete",
+        "child": "rower"
+    },
+    {
+        "parent": "athlete",
+        "child": "horse rider"
+    },
+    {
+        "parent": "snooker player",
+        "child": "snooker world champion"
+    },
+    {
+        "parent": "coach",
+        "child": "volleyball coach"
+    },
+    {
+        "parent": "body of water",
+        "child": "bay"
+    },
+    {
+        "parent": "device",
+        "child": "battery"
+    },
+    {
+        "parent": "politician",
+        "child": "senator"
+    },
+    {
+        "parent": "politician",
+        "child": "chancellor"
+    },
+    {
+        "parent": "sports league",
+        "child": "liga de fútbol canadiense"
+    },
+    {
+        "parent": "sports league",
+        "child": "cricket league"
+    },
+    {
+        "parent": "person",
+        "child": "presenter"
+    },
+    {
+        "parent": "person",
+        "child": "coach"
+    },
+    {
+        "parent": "person",
+        "child": "sports manager"
+    },
+    {
+        "parent": "cartoon",
+        "child": "hollywood cartoon"
+    },
+    {
+        "parent": "athlete",
+        "child": "winter sport player"
+    },
+    {
+        "parent": "amusement park attraction",
+        "child": "water ride"
+    },
+    {
+        "parent": "olympics",
+        "child": "olympic event"
+    },
+    {
+        "parent": "plant",
+        "child": "club moss"
+    },
+    {
+        "parent": "plant",
+        "child": "moss"
+    },
+    {
+        "parent": "plant",
+        "child": "cycad"
+    },
+    {
+        "parent": "sports league",
+        "child": "golf league"
+    },
+    {
+        "parent": "sports league",
+        "child": "lacrosse league"
+    },
+    {
+        "parent": "sports league",
+        "child": "speedway league"
+    },
+    {
+        "parent": "sports league",
+        "child": "videogames league"
+    },
+    {
+        "parent": "sports league",
+        "child": "boxing league"
+    },
+    {
+        "parent": "celestial body",
+        "child": "constellation"
+    },
+    {
+        "parent": "infrastructure",
+        "child": "launch pad"
+    },
+    {
+        "parent": "mean of transportation",
+        "child": "space station"
+    },
+    {
+        "parent": "mean of transportation",
+        "child": "aircraft"
+    },
+    {
+        "parent": "periodical literature",
+        "child": "academic journal"
+    },
+    {
+        "parent": "region",
+        "child": "administrative region"
+    },
+    {
+        "parent": "societal event",
+        "child": "music festival"
+    },
+    {
+        "parent": "plant",
+        "child": "fern"
+    },
+    {
+        "parent": "sports league",
+        "child": "american football league"
+    },
+    {
+        "parent": "sports league",
+        "child": "softball league"
+    },
+    {
+        "parent": "sports league",
+        "child": "tennis league"
+    },
+    {
+        "parent": "person",
+        "child": "artist"
+    },
+    {
+        "parent": "cartoon",
+        "child": "anime"
+    },
+    {
+        "parent": "celestial body",
+        "child": "asteroid"
+    },
+    {
+        "parent": "gridiron football player",
+        "child": "american football player"
+    },
+    {
+        "parent": "infrastructure",
+        "child": "airport"
+    },
+    {
+        "parent": "work",
+        "child": "artwork"
+    },
+    {
+        "parent": "musical work",
+        "child": "album"
+    },
+    {
+        "parent": "musical work",
+        "child": "artist discography"
+    },
+    {
+        "parent": "architectural structure",
+        "child": "amusement park attraction"
+    },
+    {
+        "parent": "company",
+        "child": "bank"
+    },
+    {
+        "parent": "group",
+        "child": "band"
+    },
+    {
+        "parent": "mean of transportation",
+        "child": "automobile"
+    },
+    {
+        "parent": "sports team season",
+        "child": "baseball season"
+    },
+    {
+        "parent": "sports team",
+        "child": "basketball team"
+    },
+    {
+        "parent": "engine",
+        "child": "automobile engine"
+    },
+    {
+        "parent": "chemical substance",
+        "child": "chemical compound"
+    },
+    {
+        "parent": "group",
+        "child": "comedy group"
+    },
+    {
+        "parent": "natural place",
+        "child": "body of water"
+    },
+    {
+        "parent": "route of transportation",
+        "child": "bridge"
+    },
+    {
+        "parent": "public transit system",
+        "child": "bus company"
+    },
+    {
+        "parent": "musical work",
+        "child": "classical music composition"
+    },
+    {
+        "parent": "architectural structure",
+        "child": "building"
+    },
+    {
+        "parent": "food",
+        "child": "beverage"
+    },
+    {
+        "parent": "settlement",
+        "child": "city"
+    },
+    {
+        "parent": "settlement",
+        "child": "city district"
+    },
+    {
+        "parent": "written work",
+        "child": "book"
+    },
+    {
+        "parent": "written work",
+        "child": "comic"
+    },
+    {
+        "parent": "person",
+        "child": "criminal"
+    },
+    {
+        "parent": "biomolecule",
+        "child": "enzyme"
+    },
+    {
+        "parent": "chemical substance",
+        "child": "drug"
+    },
+    {
+        "parent": "natural event",
+        "child": "earthquake"
+    },
+    {
+        "parent": "race",
+        "child": "cycling race"
+    },
+    {
+        "parent": "societal event",
+        "child": "convention"
+    },
+    {
+        "parent": "societal event",
+        "child": "election"
+    },
+    {
+        "parent": "sports team",
+        "child": "cycling team"
+    },
+    {
+        "parent": "device",
+        "child": "engine"
+    },
+    {
+        "parent": "plant",
+        "child": "cultivar (cultivated variety)"
+    },
+    {
+        "parent": "fictional character",
+        "child": "comics character"
+    },
+    {
+        "parent": "activity",
+        "child": "game"
+    },
+    {
+        "parent": "societal event",
+        "child": "film festival"
+    },
+    {
+        "parent": "sports team season",
+        "child": "football league season"
+    },
+    {
+        "parent": "tournament",
+        "child": "golf tournament"
+    },
+    {
+        "parent": "work",
+        "child": "movie"
+    },
+    {
+        "parent": "building",
+        "child": "historic building"
+    },
+    {
+        "parent": "organisation",
+        "child": "government agency"
+    },
+    {
+        "parent": "song",
+        "child": "eurovision song contest entry"
+    },
+    {
+        "parent": "sports event",
+        "child": "football match"
+    },
+    {
+        "parent": "sports event",
+        "child": "grand prix"
+    },
+    {
+        "parent": "place",
+        "child": "historic place"
+    },
+    {
+        "parent": "gene",
+        "child": "humangene"
+    },
+    {
+        "parent": "race",
+        "child": "horse race"
+    },
+    {
+        "parent": "sports team",
+        "child": "hockey team"
+    },
+    {
+        "parent": "animal",
+        "child": "insect"
+    },
+    {
+        "parent": "educational institution",
+        "child": "library"
+    },
+    {
+        "parent": "body of water",
+        "child": "lake"
+    },
+    {
+        "parent": "building",
+        "child": "hotel"
+    },
+    {
+        "parent": "device",
+        "child": "information appliance"
+    },
+    {
+        "parent": "organisation",
+        "child": "legislature"
+    },
+    {
+        "parent": "mean of transportation",
+        "child": "locomotive"
+    },
+    {
+        "parent": "natural place",
+        "child": "mountain"
+    },
+    {
+        "parent": "periodical literature",
+        "child": "magazine"
+    },
+    {
+        "parent": "societal event",
+        "child": "military conflict"
+    },
+    {
+        "parent": "musical work",
+        "child": "musical"
+    },
+    {
+        "parent": "architectural structure",
+        "child": "military structure"
+    },
+    {
+        "parent": "architectural structure",
+        "child": "monument"
+    },
+    {
+        "parent": "artist",
+        "child": "musical artist"
+    },
+    {
+        "parent": "building",
+        "child": "museum"
+    },
+    {
+        "parent": "comic",
+        "child": "manga"
+    },
+    {
+        "parent": "organisation",
+        "child": "military unit"
+    },
+    {
+        "parent": "sports season",
+        "child": "motorsport season"
+    },
+    {
+        "parent": "person",
+        "child": "philosopher"
+    },
+    {
+        "parent": "person",
+        "child": "politician"
+    },
+    {
+        "parent": "place",
+        "child": "park"
+    },
+    {
+        "parent": "agent",
+        "child": "organisation"
+    },
+    {
+        "parent": "celestial body",
+        "child": "planet"
+    },
+    {
+        "parent": "periodical literature",
+        "child": "newspaper"
+    },
+    {
+        "parent": "sports team season",
+        "child": "national collegiate athletic association team season"
+    },
+    {
+        "parent": "eukaryote",
+        "child": "plant"
+    },
+    {
+        "parent": "event",
+        "child": "outbreak"
+    },
+    {
+        "parent": "football league season",
+        "child": "national football league season"
+    },
+    {
+        "parent": "organisation",
+        "child": "political party"
+    },
+    {
+        "parent": "person function",
+        "child": "political function"
+    },
+    {
+        "parent": "royalty",
+        "child": "pharaoh"
+    },
+    {
+        "parent": "sports event",
+        "child": "olympics"
+    },
+    {
+        "parent": "written work",
+        "child": "play"
+    },
+    {
+        "parent": "company",
+        "child": "record label"
+    },
+    {
+        "parent": "person",
+        "child": "religious"
+    },
+    {
+        "parent": "place",
+        "child": "protected area"
+    },
+    {
+        "parent": "language",
+        "child": "programming language"
+    },
+    {
+        "parent": "biomolecule",
+        "child": "protein"
+    },
+    {
+        "parent": "broadcaster",
+        "child": "radio station"
+    },
+    {
+        "parent": "infrastructure",
+        "child": "power station"
+    },
+    {
+        "parent": "motorsport racer",
+        "child": "racing driver"
+    },
+    {
+        "parent": "project",
+        "child": "research project"
+    },
+    {
+        "parent": "route of transportation",
+        "child": "railway line"
+    },
+    {
+        "parent": "route of transportation",
+        "child": "road"
+    },
+    {
+        "parent": "route of transportation",
+        "child": "road junction"
+    },
+    {
+        "parent": "work",
+        "child": "radio program"
+    },
+    {
+        "parent": "animal",
+        "child": "reptile"
+    },
+    {
+        "parent": "presenter",
+        "child": "radio host"
+    },
+    {
+        "parent": "building",
+        "child": "restaurant"
+    },
+    {
+        "parent": "activity",
+        "child": "sales"
+    },
+    {
+        "parent": "person",
+        "child": "royalty"
+    },
+    {
+        "parent": "mean of transportation",
+        "child": "ship"
+    },
+    {
+        "parent": "sports club",
+        "child": "rugby club"
+    },
+    {
+        "parent": "sports club",
+        "child": "soccer club"
+    },
+    {
+        "parent": "sports team season",
+        "child": "soccer club season"
+    },
+    {
+        "parent": "tournament",
+        "child": "soccer tournoment"
+    },
+    {
+        "parent": "athlete",
+        "child": "rugby player"
+    },
+    {
+        "parent": "populated place",
+        "child": "settlement"
+    },
+    {
+        "parent": "musical work",
+        "child": "single"
+    },
+    {
+        "parent": "amusement park attraction",
+        "child": "roller coaster"
+    },
+    {
+        "parent": "building",
+        "child": "shopping mall"
+    },
+    {
+        "parent": "sports league",
+        "child": "rugby league"
+    },
+    {
+        "parent": "sports league",
+        "child": "soccer league"
+    },
+    {
+        "parent": "broadcaster",
+        "child": "television station"
+    },
+    {
+        "parent": "celestial body",
+        "child": "star"
+    },
+    {
+        "parent": "document",
+        "child": "sound"
+    },
+    {
+        "parent": "infrastructure",
+        "child": "station"
+    },
+    {
+        "parent": "legal case",
+        "child": "supreme court of the united states case"
+    },
+    {
+        "parent": "organisation member",
+        "child": "sports team member"
+    },
+    {
+        "parent": "societal event",
+        "child": "space mission"
+    },
+    {
+        "parent": "societal event",
+        "child": "sports event"
+    },
+    {
+        "parent": "work",
+        "child": "television episode"
+    },
+    {
+        "parent": "work",
+        "child": "television season"
+    },
+    {
+        "parent": "work",
+        "child": "television show"
+    },
+    {
+        "parent": "musical work",
+        "child": "song"
+    },
+    {
+        "parent": "organisation",
+        "child": "sports league"
+    },
+    {
+        "parent": "software",
+        "child": "video game"
+    },
+    {
+        "parent": "identifier",
+        "child": "top level domain"
+    },
+    {
+        "parent": "mean of transportation",
+        "child": "train"
+    },
+    {
+        "parent": "tournament",
+        "child": "tennis tournament"
+    },
+    {
+        "parent": "educational institution",
+        "child": "university"
+    },
+    {
+        "parent": "time period",
+        "child": "tenure"
+    },
+    {
+        "parent": "building",
+        "child": "venue"
+    },
+    {
+        "parent": "device",
+        "child": "weapon"
+    },
+    {
+        "parent": "organisation",
+        "child": "trade union"
+    },
+    {
+        "parent": "settlement",
+        "child": "town"
+    },
+    {
+        "parent": "settlement",
+        "child": "village"
+    },
+    {
+        "parent": "venue",
+        "child": "theatre"
+    },
+    {
+        "parent": "person",
+        "child": "writer"
+    },
+    {
+        "parent": "agent",
+        "child": "fictional character"
+    },
+    {
+        "parent": "tournament",
+        "child": "women's tennis association tournament"
+    },
+    {
+        "parent": "work",
+        "child": "website"
+    },
+    {
+        "parent": "work",
+        "child": "written work"
+    },
+    {
+        "parent": "populated place",
+        "child": "country"
+    },
+    {
+        "parent": "public transit system",
+        "child": "airline"
+    },
+    {
+        "parent": "time period",
+        "child": "year"
+    },
+    {
+        "parent": "time period",
+        "child": "year in spaceflight"
+    },
+    {
+        "parent": "sports event",
+        "child": "wrestling event"
+    },
+    {
+        "parent": "sports league",
+        "child": "basketball league"
+    },
+    {
+        "parent": "sports league",
+        "child": "handball league"
+    },
+    {
+        "parent": "sports league",
+        "child": "ice hockey league"
+    },
+    {
+        "parent": "genre",
+        "child": "music genre"
+    },
+    {
+        "parent": "mean of transportation",
+        "child": "space shuttle"
+    },
+    {
+        "parent": "route of transportation",
+        "child": "road tunnel"
+    },
+    {
+        "parent": "sports team",
+        "child": "american football team"
+    },
+    {
+        "parent": "sports team",
+        "child": "baseball team"
+    },
+    {
+        "parent": "animal",
+        "child": "bird"
+    },
+    {
+        "parent": "cleric",
+        "child": "saint"
+    },
+    {
+        "parent": "building",
+        "child": "religious building"
+    },
+    {
+        "parent": "sports event",
+        "child": "mixed martial arts event"
+    },
+    {
+        "parent": "sports league",
+        "child": "field hockey league"
+    },
+    {
+        "parent": "british royalty",
+        "child": "baronet"
+    },
+    {
+        "parent": "person",
+        "child": "monarch"
+    },
+    {
+        "parent": "person",
+        "child": "office holder"
+    },
+    {
+        "parent": "mean of transportation",
+        "child": "spacecraft"
+    },
+    {
+        "parent": "natural event",
+        "child": "solar eclipse"
+    },
+    {
+        "parent": "natural place",
+        "child": "mountain range"
+    },
+    {
+        "parent": "natural place",
+        "child": "valley"
+    },
+    {
+        "parent": "topical concept",
+        "child": "academic subject"
+    },
+    {
+        "parent": "results of a sport competition",
+        "child": "snooker world ranking"
+    },
+    {
+        "parent": "cleric",
+        "child": "pope"
+    },
+    {
+        "parent": "populated place",
+        "child": "agglomeration"
+    },
+    {
+        "parent": "musical artist",
+        "child": "instrumentalist"
+    },
+    {
+        "parent": "plant",
+        "child": "ginkgo"
+    },
+    {
+        "parent": "royalty",
+        "child": "british royalty"
+    },
+    {
+        "parent": "sports league",
+        "child": "curling league"
+    },
+    {
+        "parent": "satellite",
+        "child": "artificialsatellite"
+    },
+    {
+        "parent": "person",
+        "child": "archeologist"
+    },
+    {
+        "parent": "written work",
+        "child": "annotation"
+    },
+    {
+        "parent": "person",
+        "child": "aristocrat"
+    },
+    {
+        "parent": "genre",
+        "child": "artistic genre"
+    },
+    {
+        "parent": "natural place",
+        "child": "archipelago"
+    },
+    {
+        "parent": "natural place",
+        "child": "beach"
+    },
+    {
+        "parent": "societal event",
+        "child": "attack"
+    },
+    {
+        "parent": "governmental administrative region",
+        "child": "arrondissement"
+    },
+    {
+        "parent": "athlete",
+        "child": "archer player"
+    },
+    {
+        "parent": "athlete",
+        "child": "athletics player"
+    },
+    {
+        "parent": "island",
+        "child": "atoll"
+    },
+    {
+        "parent": "sport",
+        "child": "athletics"
+    },
+    {
+        "parent": "architectural structure",
+        "child": "arena"
+    },
+    {
+        "parent": "winter sport player",
+        "child": "biathlete"
+    },
+    {
+        "parent": "beverage",
+        "child": "beer"
+    },
+    {
+        "parent": "musical artist",
+        "child": "back scene"
+    },
+    {
+        "parent": "written work",
+        "child": "article"
+    },
+    {
+        "parent": "collection of valuables",
+        "child": "archive"
+    },
+    {
+        "parent": "gridiron football player",
+        "child": "canadian football player"
+    },
+    {
+        "parent": "natural place",
+        "child": "cape"
+    },
+    {
+        "parent": "sports team",
+        "child": "canadian football team"
+    },
+    {
+        "parent": "topical concept",
+        "child": "cardinal direction"
+    },
+    {
+        "parent": "governmental administrative region",
+        "child": "canton"
+    },
+    {
+        "parent": "anatomical structure",
+        "child": "blood vessel"
+    },
+    {
+        "parent": "athlete",
+        "child": "bullfighter"
+    },
+    {
+        "parent": "mammal",
+        "child": "cat"
+    },
+    {
+        "parent": "scientist",
+        "child": "biologist"
+    },
+    {
+        "parent": "winter sport player",
+        "child": "bobsleighathlete"
+    },
+    {
+        "parent": "building",
+        "child": "casino"
+    },
+    {
+        "parent": "city",
+        "child": "capital"
+    },
+    {
+        "parent": "city",
+        "child": "capital of region"
+    },
+    {
+        "parent": "device",
+        "child": "camera"
+    },
+    {
+        "parent": "game",
+        "child": "board game"
+    },
+    {
+        "parent": "game",
+        "child": "card game"
+    },
+    {
+        "parent": "star",
+        "child": "brown dwarf"
+    },
+    {
+        "parent": "company",
+        "child": "caterer"
+    },
+    {
+        "parent": "place",
+        "child": "cemetery"
+    },
+    {
+        "parent": "place",
+        "child": "country estate"
+    },
+    {
+        "parent": "chemical substance",
+        "child": "chemical element"
+    },
+    {
+        "parent": "work",
+        "child": "collection of valuables"
+    },
+    {
+        "parent": "populated place",
+        "child": "community"
+    },
+    {
+        "parent": "winter sport player",
+        "child": "cross-country skier"
+    },
+    {
+        "parent": "event",
+        "child": "competition"
+    },
+    {
+        "parent": "politician",
+        "child": "chief"
+    },
+    {
+        "parent": "sports event",
+        "child": "cycling competition"
+    },
+    {
+        "parent": "religious building",
+        "child": "church"
+    },
+    {
+        "parent": "competition",
+        "child": "contest"
+    },
+    {
+        "parent": "mine",
+        "child": "coal pit"
+    },
+    {
+        "parent": "on-site mean of transportation",
+        "child": "conveyor system"
+    },
+    {
+        "parent": "religious organisation",
+        "child": "clerical order"
+    },
+    {
+        "parent": "theological concept",
+        "child": "christian doctrine"
+    },
+    {
+        "parent": "wine",
+        "child": "controlled designation of origin wine"
+    },
+    {
+        "parent": "person",
+        "child": "dbpedian"
+    },
+    {
+        "parent": "type",
+        "child": "document type"
+    },
+    {
+        "parent": "infrastructure",
+        "child": "dike"
+    },
+    {
+        "parent": "natural place",
+        "child": "desert"
+    },
+    {
+        "parent": "clerical administrative region",
+        "child": "deanery"
+    },
+    {
+        "parent": "governmental administrative region",
+        "child": "district"
+    },
+    {
+        "parent": "governmental administrative region",
+        "child": "district water board"
+    },
+    {
+        "parent": "mammal",
+        "child": "dog"
+    },
+    {
+        "parent": "award",
+        "child": "decoration"
+    },
+    {
+        "parent": "politician",
+        "child": "deputy"
+    },
+    {
+        "parent": "racing driver",
+        "child": "dtm racer"
+    },
+    {
+        "parent": "sports league",
+        "child": "cycling league"
+    },
+    {
+        "parent": "fictional character",
+        "child": "disney character"
+    },
+    {
+        "parent": "camera",
+        "child": "digital camera"
+    },
+    {
+        "parent": "person",
+        "child": "egyptologist"
+    },
+    {
+        "parent": "person",
+        "child": "farmer"
+    },
+    {
+        "parent": "agent",
+        "child": "employer"
+    },
+    {
+        "parent": "agent",
+        "child": "family"
+    },
+    {
+        "parent": "document",
+        "child": "file"
+    },
+    {
+        "parent": "natural place",
+        "child": "forest"
+    },
+    {
+        "parent": "athlete",
+        "child": "fencer"
+    },
+    {
+        "parent": "building",
+        "child": "factory"
+    },
+    {
+        "parent": "military structure",
+        "child": "fort"
+    },
+    {
+        "parent": "organisation",
+        "child": "employers' organisation"
+    },
+    {
+        "parent": "sports league",
+        "child": "formula one racing"
+    },
+    {
+        "parent": "written work",
+        "child": "drama"
+    },
+    {
+        "parent": "infrastructure",
+        "child": "electrical substation"
+    },
+    {
+        "parent": "on-site mean of transportation",
+        "child": "escalator"
+    },
+    {
+        "parent": "type",
+        "child": "government type"
+    },
+    {
+        "parent": "biomolecule",
+        "child": "hormone"
+    },
+    {
+        "parent": "natural place",
+        "child": "hot spring"
+    },
+    {
+        "parent": "region",
+        "child": "historical region"
+    },
+    {
+        "parent": "sports club",
+        "child": "hockey club"
+    },
+    {
+        "parent": "athlete",
+        "child": "high diver"
+    },
+    {
+        "parent": "populated place",
+        "child": "gated community"
+    },
+    {
+        "parent": "time period",
+        "child": "geological period"
+    },
+    {
+        "parent": "time period",
+        "child": "historical period"
+    },
+    {
+        "parent": "administrative region",
+        "child": "ancient area of jurisdiction of a person (feudal) or of a governmental body"
+    },
+    {
+        "parent": "government agency",
+        "child": "cabinet of ministers"
+    },
+    {
+        "parent": "monument",
+        "child": "grave stone or grave monument"
+    },
+    {
+        "parent": "organisation",
+        "child": "geopolitical organisation"
+    },
+    {
+        "parent": "settlement",
+        "child": "historical settlement"
+    },
+    {
+        "parent": "country",
+        "child": "historical country"
+    },
+    {
+        "parent": "district",
+        "child": "historical district"
+    },
+    {
+        "parent": "instrument",
+        "child": "guitar"
+    },
+    {
+        "parent": "province",
+        "child": "historical province"
+    },
+    {
+        "parent": "swarm",
+        "child": "globular swarm"
+    },
+    {
+        "parent": "person",
+        "child": "lawyer"
+    },
+    {
+        "parent": "person",
+        "child": "linguist"
+    },
+    {
+        "parent": "biomolecule",
+        "child": "lipid"
+    },
+    {
+        "parent": "work",
+        "child": "line of fashion"
+    },
+    {
+        "parent": "topical concept",
+        "child": "ideology"
+    },
+    {
+        "parent": "populated place",
+        "child": "intercommunality"
+    },
+    {
+        "parent": "artist",
+        "child": "humorist"
+    },
+    {
+        "parent": "device",
+        "child": "instrument"
+    },
+    {
+        "parent": "event",
+        "child": "life cycle event"
+    },
+    {
+        "parent": "organisation",
+        "child": "international organisation"
+    },
+    {
+        "parent": "politician",
+        "child": "lieutenant"
+    },
+    {
+        "parent": "sports event",
+        "child": "international football league event"
+    },
+    {
+        "parent": "written work",
+        "child": "law"
+    },
+    {
+        "parent": "written work",
+        "child": "letter"
+    },
+    {
+        "parent": "novel",
+        "child": "light novel"
+    },
+    {
+        "parent": "genelocation",
+        "child": "humangenelocation"
+    },
+    {
+        "parent": "person",
+        "child": "man"
+    },
+    {
+        "parent": "person",
+        "child": "member of a resistance movement"
+    },
+    {
+        "parent": "genre",
+        "child": "literary genre"
+    },
+    {
+        "parent": "infrastructure",
+        "child": "lock"
+    },
+    {
+        "parent": "societal event",
+        "child": "meeting"
+    },
+    {
+        "parent": "topical concept",
+        "child": "mathematical concept"
+    },
+    {
+        "parent": "governmental administrative region",
+        "child": "micro-region"
+    },
+    {
+        "parent": "crater",
+        "child": "lunar crater"
+    },
+    {
+        "parent": "populated place",
+        "child": "locality"
+    },
+    {
+        "parent": "aircraft",
+        "child": "military aircraft"
+    },
+    {
+        "parent": "comic",
+        "child": "manhua"
+    },
+    {
+        "parent": "comic",
+        "child": "manhwa"
+    },
+    {
+        "parent": "monument",
+        "child": "memorial"
+    },
+    {
+        "parent": "station",
+        "child": "subway station"
+    },
+    {
+        "parent": "ancient area of jurisdiction of a person (feudal) or of a governmental body",
+        "child": "manor"
+    },
+    {
+        "parent": "person",
+        "child": "movie director"
+    },
+    {
+        "parent": "place",
+        "child": "mine"
+    },
+    {
+        "parent": "genre",
+        "child": "movie genre"
+    },
+    {
+        "parent": "mean of transportation",
+        "child": "military vehicle"
+    },
+    {
+        "parent": "race",
+        "child": "motor race"
+    },
+    {
+        "parent": "image",
+        "child": "moving image"
+    },
+    {
+        "parent": "motorcycle rider",
+        "child": "motocycle racer"
+    },
+    {
+        "parent": "architectural structure",
+        "child": "mill"
+    },
+    {
+        "parent": "criminal",
+        "child": "murderer"
+    },
+    {
+        "parent": "device",
+        "child": "mobile phone"
+    },
+    {
+        "parent": "musical artist",
+        "child": "music director"
+    },
+    {
+        "parent": "politician",
+        "child": "minister"
+    },
+    {
+        "parent": "writer",
+        "child": "music composer"
+    },
+    {
+        "parent": "written work",
+        "child": "multi volume publication"
+    },
+    {
+        "parent": "fictional character",
+        "child": "naruto character"
+    },
+    {
+        "parent": "religious building",
+        "child": "monastery"
+    },
+    {
+        "parent": "religious building",
+        "child": "mosque"
+    },
+    {
+        "parent": "genelocation",
+        "child": "mousegenelocation"
+    },
+    {
+        "parent": "on-site mean of transportation",
+        "child": "travellator"
+    },
+    {
+        "parent": "gene",
+        "child": "mousegene"
+    },
+    {
+        "parent": "department",
+        "child": "overseas department"
+    },
+    {
+        "parent": "celestial body",
+        "child": "nebula"
+    },
+    {
+        "parent": "mean of transportation",
+        "child": "on-site mean of transportation"
+    },
+    {
+        "parent": "region",
+        "child": "natural region"
+    },
+    {
+        "parent": "clerical administrative region",
+        "child": "parish"
+    },
+    {
+        "parent": "results of a sport competition",
+        "child": "olympic result"
+    },
+    {
+        "parent": "musical work",
+        "child": "national anthem"
+    },
+    {
+        "parent": "musical work",
+        "child": "opera"
+    },
+    {
+        "parent": "winter sport player",
+        "child": "nordic combined"
+    },
+    {
+        "parent": "artwork",
+        "child": "painting"
+    },
+    {
+        "parent": "award",
+        "child": "nobel prize"
+    },
+    {
+        "parent": "body of water",
+        "child": "ocean"
+    },
+    {
+        "parent": "organisation",
+        "child": "parliament"
+    },
+    {
+        "parent": "power station",
+        "child": "nuclear power plant"
+    },
+    {
+        "parent": "soccer club",
+        "child": "national soccer club"
+    },
+    {
+        "parent": "sports league",
+        "child": "paintball league"
+    },
+    {
+        "parent": "family",
+        "child": "noble family"
+    },
+    {
+        "parent": "instrument",
+        "child": "organ"
+    },
+    {
+        "parent": "swarm",
+        "child": "open swarm"
+    },
+    {
+        "parent": "territory",
+        "child": "old territory"
+    },
+    {
+        "parent": "person",
+        "child": "politician spouse"
+    },
+    {
+        "parent": "person",
+        "child": "producer"
+    },
+    {
+        "parent": "person",
+        "child": "psychologist"
+    },
+    {
+        "parent": "biomolecule",
+        "child": "polysaccharide"
+    },
+    {
+        "parent": "infrastructure",
+        "child": "port"
+    },
+    {
+        "parent": "topical concept",
+        "child": "philosophical concept"
+    },
+    {
+        "parent": "topical concept",
+        "child": "political concept"
+    },
+    {
+        "parent": "governmental administrative region",
+        "child": "prefecture"
+    },
+    {
+        "parent": "governmental administrative region",
+        "child": "province"
+    },
+    {
+        "parent": "scientist",
+        "child": "professor"
+    },
+    {
+        "parent": "time period",
+        "child": "period of artistic style"
+    },
+    {
+        "parent": "time period",
+        "child": "prehistorical period"
+    },
+    {
+        "parent": "time period",
+        "child": "protohistorical period"
+    },
+    {
+        "parent": "event",
+        "child": "penalty shoot-out"
+    },
+    {
+        "parent": "person function",
+        "child": "profession"
+    },
+    {
+        "parent": "writer",
+        "child": "playwright"
+    },
+    {
+        "parent": "life cycle event",
+        "child": "personal event"
+    },
+    {
+        "parent": "person",
+        "child": "referee"
+    },
+    {
+        "parent": "person",
+        "child": "roman emperor"
+    },
+    {
+        "parent": "non-profit organisation",
+        "child": "record office"
+    },
+    {
+        "parent": "celestial body",
+        "child": "satellite"
+    },
+    {
+        "parent": "infrastructure",
+        "child": "rest area"
+    },
+    {
+        "parent": "societal event",
+        "child": "rebellion"
+    },
+    {
+        "parent": "topical concept",
+        "child": "scientific concept"
+    },
+    {
+        "parent": "governmental administrative region",
+        "child": "regency"
+    },
+    {
+        "parent": "architectural structure",
+        "child": "pyramid"
+    },
+    {
+        "parent": "time period",
+        "child": "reign"
+    },
+    {
+        "parent": "artist",
+        "child": "sculptor"
+    },
+    {
+        "parent": "device",
+        "child": "robot"
+    },
+    {
+        "parent": "engine",
+        "child": "rocket engine"
+    },
+    {
+        "parent": "organisation",
+        "child": "religious organisation"
+    },
+    {
+        "parent": "organisation",
+        "child": "samba school"
+    },
+    {
+        "parent": "racing driver",
+        "child": "rally driver"
+    },
+    {
+        "parent": "sports league",
+        "child": "radio-controlled racing league"
+    },
+    {
+        "parent": "station",
+        "child": "route stop"
+    },
+    {
+        "parent": "written work",
+        "child": "quote"
+    },
+    {
+        "parent": "written work",
+        "child": "resume"
+    },
+    {
+        "parent": "annotation",
+        "child": "reference"
+    },
+    {
+        "parent": "sports team season",
+        "child": "soccer league season"
+    },
+    {
+        "parent": "topical concept",
+        "child": "standard"
+    },
+    {
+        "parent": "populated place",
+        "child": "state"
+    },
+    {
+        "parent": "ski area",
+        "child": "ski resort"
+    },
+    {
+        "parent": "architectural structure",
+        "child": "square"
+    },
+    {
+        "parent": "winter sport player",
+        "child": "ski jumper"
+    },
+    {
+        "parent": "winter sport player",
+        "child": "speed skater"
+    },
+    {
+        "parent": "artwork",
+        "child": "sculpture"
+    },
+    {
+        "parent": "musical artist",
+        "child": "singer"
+    },
+    {
+        "parent": "writer",
+        "child": "songwriter"
+    },
+    {
+        "parent": "written work",
+        "child": "stated resolution"
+    },
+    {
+        "parent": "religious building",
+        "child": "shrine"
+    },
+    {
+        "parent": "list",
+        "child": "single list"
+    },
+    {
+        "parent": "murderer",
+        "child": "serial killer"
+    },
+    {
+        "parent": "person",
+        "child": "television director"
+    },
+    {
+        "parent": "person",
+        "child": "theatre director"
+    },
+    {
+        "parent": "celestial body",
+        "child": "swarm"
+    },
+    {
+        "parent": "natural event",
+        "child": "storm surge"
+    },
+    {
+        "parent": "image",
+        "child": "still image"
+    },
+    {
+        "parent": "topical concept",
+        "child": "system of law"
+    },
+    {
+        "parent": "topical concept",
+        "child": "tax"
+    },
+    {
+        "parent": "topical concept",
+        "child": "taxonomic group"
+    },
+    {
+        "parent": "topical concept",
+        "child": "theological concept"
+    },
+    {
+        "parent": "governmental administrative region",
+        "child": "borough"
+    },
+    {
+        "parent": "athlete",
+        "child": "surfer"
+    },
+    {
+        "parent": "athlete",
+        "child": "team member"
+    },
+    {
+        "parent": "populated place",
+        "child": "street"
+    },
+    {
+        "parent": "populated place",
+        "child": "territory"
+    },
+    {
+        "parent": "sport",
+        "child": "team sport"
+    },
+    {
+        "parent": "organisation",
+        "child": "term of office"
+    },
+    {
+        "parent": "religious building",
+        "child": "synagogue"
+    },
+    {
+        "parent": "religious building",
+        "child": "temple"
+    },
+    {
+        "parent": "mean of transportation",
+        "child": "train carriage"
+    },
+    {
+        "parent": "mean of transportation",
+        "child": "streetcar"
+    },
+    {
+        "parent": "periodical literature",
+        "child": "underground journal"
+    },
+    {
+        "parent": "tower",
+        "child": "water tower"
+    },
+    {
+        "parent": "athlete",
+        "child": "water polo player"
+    },
+    {
+        "parent": "cleric",
+        "child": "vicar"
+    },
+    {
+        "parent": "beverage",
+        "child": "vodka"
+    },
+    {
+        "parent": "beverage",
+        "child": "wine"
+    },
+    {
+        "parent": "drug",
+        "child": "vaccination statistics"
+    },
+    {
+        "parent": "politician",
+        "child": "vice president"
+    },
+    {
+        "parent": "politician",
+        "child": "vice prime minister"
+    },
+    {
+        "parent": "station",
+        "child": "tram station"
+    },
+    {
+        "parent": "written work",
+        "child": "treaty"
+    },
+    {
+        "parent": "list",
+        "child": "track list"
+    },
+    {
+        "parent": "mill",
+        "child": "treadmill"
+    },
+    {
+        "parent": "mill",
+        "child": "watermill"
+    },
+    {
+        "parent": "mill",
+        "child": "wind motor"
+    },
+    {
+        "parent": "mill",
+        "child": "windmill"
+    },
+    {
+        "parent": "unknown",
+        "child": "wikimedia template"
+    },
+    {
+        "parent": "person",
+        "child": "woman"
+    },
+    {
+        "parent": "architectural structure",
+        "child": "zoo"
+    },
+    {
+        "parent": "list",
+        "child": "sequence of works"
+    },
+    {
+        "parent": "book",
+        "child": "novel"
+    },
+    {
+        "parent": "species",
+        "child": "government type"
+    },
+    {
+        "parent": "game",
+        "child": "team sport"
+    },
+    {
+        "parent": "station",
+        "child": "metrostation"
+    },
+    {
+        "parent": "name",
+        "child": "first name"
+    },
+    {
+        "parent": "work",
+        "child": "film"
+    },
+    {
+        "parent": "affair",
+        "child": "legal case"
+    },
+    {
+        "parent": "memorial",
+        "child": "grave stone or grave monument"
+    },
+    {
+        "parent": "unit of work",
+        "child": "affair"
+    },
+    {
+        "parent": "mean of transportation",
+        "child": "tram"
+    },
+    {
+        "parent": "timeinterval",
+        "child": "time period"
+    },
+    {
+        "parent": "eukaryote",
+        "child": "fungus"
+    },
+    {
+        "parent": "timeinterval",
+        "child": "holiday"
+    },
+    {
+        "parent": "work",
+        "child": "cartoon"
+    },
+    {
+        "parent": "game",
+        "child": "athletics"
+    },
+    {
+        "parent": "building",
+        "child": "hospital"
+    },
+    {
+        "parent": "sports league",
+        "child": "canadian football league"
+    },
+    {
+        "parent": "architectural structure",
+        "child": "memorial"
+    }
+]

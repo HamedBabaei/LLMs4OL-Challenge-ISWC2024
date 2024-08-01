@@ -1,0 +1,762 @@
+youtuber
+disney character
+motocycle racer
+locomotive
+musical work
+automobile
+vein
+animanga character
+scientific concept
+businessperson
+man
+polysaccharide
+mobile phone
+film festival
+liga de fútbol canadiense
+water tower
+government type
+political function
+eukaryote
+sculpture
+competition
+soccer tournoment
+team sport
+unknown
+songwriter
+chief
+golf course
+humangenelocation
+soccer club
+solar eclipse
+research project
+arrondissement
+classical music composition
+enzyme
+rebbe
+biomolecule
+brewery
+gridiron football player
+escalator
+state
+fashion
+australian football team
+boxing league
+place
+guitarist
+deputy
+organisation
+community
+snooker player
+back scene
+archer player
+borough
+college
+societal event
+concentration camp
+locality
+grape
+handball team
+spacecraft
+movie genre
+department
+magazine
+tower
+valley
+document type
+archaea
+prime minister
+badminton player
+professor
+region
+auto racing league
+dtm racer
+non-profit organisation
+monoclonal antibody
+poem
+administrative region
+globular swarm
+music composer
+theological concept
+american football team
+motor race
+mill
+historical event
+satellite
+road junction
+poet
+high diver
+artery
+sports season
+soccer manager
+city district
+casino
+rower
+tennis league
+manhua
+bacteria
+chef
+comedian
+speedway rider
+water ride
+monument
+identifier
+treaty
+blood vessel
+historical country
+village
+rebellion
+humorist
+latter day saint
+painting
+aircraft
+golf tournament
+referee
+figure skater
+meeting
+member of parliament
+table tennis player
+formula 1 team
+cat
+fencer
+politician spouse
+storm surge
+basketball player
+fish
+country estate
+speedway team
+adult (pornographic) actor
+philosopher
+cleric
+handball league
+play
+historical settlement
+mixed martial arts league
+music genre
+videogames league
+sports club
+australian football league
+lighthouse
+single list
+parish
+mixed martial arts event
+international football league event
+manhwa
+speed skater
+national soccer club
+tournament
+tram
+engineer
+shrine
+squash player
+archive
+stated resolution
+chemical element
+pyramid
+annotation
+office holder
+bank
+contest
+gated community
+sports team
+basketball league
+mythological figure
+team member
+rally driver
+clerical administrative region
+military aircraft
+capital
+cycling team
+television episode
+electrical substation
+person
+university
+rest area
+cyclist
+canton
+music director
+horse race
+coach
+spy
+lymph
+television show
+mountain range
+district
+digital camera
+star
+album
+train
+populated place
+roman emperor
+book
+manga
+train station
+line of fashion
+prison
+convention
+opera
+novel
+broadcast network
+stadium
+canal
+serial killer
+insect
+wikimedia template
+camera
+garden
+baseball league
+publisher
+ligament
+period of artistic style
+anime
+space shuttle
+band
+glacier
+christian patriarch
+hospital
+case
+football match
+song
+historical period
+cricket league
+curler
+software
+protohistorical period
+monastery
+natural place
+musical
+penalty shoot-out
+academic conference
+volleyball player
+nordic combined
+archipelago
+drama
+brown dwarf
+ski area
+given name
+national football league season
+noble family
+project
+image
+activity
+voice actor
+archeologist
+rocket
+election
+lacrosse league
+movie director
+nobel prize
+streetcar
+nerve
+polo league
+career station
+protected area
+sequence of works
+winter sport player
+military unit
+radio program
+gaelic games player
+skyscraper
+military vehicle
+classical music artist
+deity
+military service
+baronet
+travellator
+governmental administrative region
+prehistorical period
+baseball season
+agent
+district water board
+arena
+field hockey league
+television host
+company
+supreme court of the united states case
+cape
+micro-region
+governor
+vaccine
+canoeist
+water polo player
+lunar crater
+fashion designer
+surfer
+sports event
+economist
+athlete
+natural region
+affair
+artist
+educational institution
+species
+airport
+bobsleighathlete
+dam
+motorcycle rider
+soap character
+biological database
+police officer
+type
+municipality
+tennis player
+event
+american football player
+museum
+law
+organisation member
+grave stone or grave monument
+gnetophytes
+multi volume publication
+grand prix
+earthquake
+saint
+historic building
+legal case
+board game
+political concept
+robot
+military person
+academic journal
+tram station
+letter
+academic person
+bodybuilder
+deanery
+radio-controlled racing league
+architectural structure
+screenwriter
+football league season
+holiday
+street
+american football coach
+mousegene
+tennis tournament
+shopping mall
+road tunnel
+one-time municipality
+programming language
+college coach
+lacrosse player
+nebula
+historical region
+hotel
+coal pit
+employers' organisation
+sales
+martial artist
+bus company
+game
+prefecture
+synagogue
+attack
+park
+amusement park attraction
+parliament
+ocean
+ambassador
+motorsport racer
+geopolitical organisation
+national collegiate athletic association athlete
+instrumentalist
+club moss
+baseball team
+conveyor system
+amateur boxer
+genelocation
+artificialsatellite
+australian rules football player
+award
+old territory
+historian
+soccer league season
+soccer league
+drug
+results of a sport competition
+canadian football team
+overseas department
+radio station
+launch pad
+beverage
+international organisation
+protein
+information appliance
+pope
+sculptor
+resume
+movie
+mountain pass
+judge
+theatre
+sports team member
+term of office
+american football league
+unit of work
+volleyball coach
+gene
+system of law
+tunnel
+wrestling event
+athletics player
+farmer
+factory
+chess player
+zoo
+golf player
+route of transportation
+ideology
+cricket ground
+world heritage site
+reptile
+cinema (movie theater)
+president
+scientist
+poker player
+vicar
+politician
+mayor
+theatre director
+snooker world ranking
+arachnid
+site of special scientific interest
+newspaper
+women's tennis association tournament
+canadian football player
+dike
+royalty
+card game
+mollusca
+chemical compound
+profession
+fort
+academic subject
+windmill
+ski jumper
+ginkgo
+ancient area of jurisdiction of a person (feudal) or of a governmental body
+asteroid
+canadian football league
+national football league event
+tax
+congressman
+presenter
+egyptologist
+priest
+mosque
+castle
+actor
+embryology
+astronaut
+city
+venue
+group
+comics character
+time period
+natural event
+hollywood cartoon
+body of water
+constellation
+organ
+formula one racer
+year in spaceflight
+stream
+historic place
+sports manager
+agglomeration
+road
+sailor
+racing driver
+manor
+controlled designation of origin wine
+personal event
+wine region
+year
+railway line
+formula one racing
+government agency
+medician
+subway station
+library
+noble
+volleyball league
+military structure
+article
+website
+cemetery
+hot spring
+combination drug
+hormone
+geological period
+life cycle event
+celestial body
+square
+volcano
+sports league
+outbreak
+racecourse
+playwright
+dancer
+timeinterval
+naruto character
+topical concept
+netball player
+monarch
+animal
+track list
+restaurant
+school
+light novel
+golf league
+genre
+curling league
+soccer club season
+amphibian
+painter
+member of a resistance movement
+playboy playmate
+document
+jockey (horse racer)
+cardinal direction
+mammal
+rocket engine
+race
+crustacean
+ice hockey player
+first name
+database
+softball league
+basketball team
+hockey team
+linguist
+dbpedian
+inline hockey league
+still image
+wind motor
+motorcycle racing league
+baseball player
+single
+religious organisation
+forest
+nascar driver
+beer
+rugby league
+diocese
+military conflict
+metrostation
+instrument
+jewishleader
+on-site mean of transportation
+battery
+name
+model
+pilot
+decoration
+watermill
+video game
+architect
+railway tunnel
+train carriage
+chemical substance
+building
+intercommunality
+lake
+public transit system
+territory
+skier
+christian doctrine
+caterer
+ship
+island
+device
+gymnast
+space station
+airline
+surname
+moss
+river
+sound
+christian bishop
+horse trainer
+paintball league
+film
+skater
+bullfighter
+religious building
+ski resort
+trade union
+reign
+standard
+infrastructure
+green alga
+route stop
+historical district
+periodical literature
+minister
+space mission
+swarm
+sport facility
+criminal
+family
+plant
+cheese
+horse
+written work
+pretender
+waterway tunnel
+national collegiate athletic association team season
+collection of valuables
+national anthem
+cave
+dog
+person function
+open swarm
+biologist
+olympics
+atoll
+writer
+lawyer
+lieutenant
+vice prime minister
+murderer
+philosophical concept
+fictional character
+treadmill
+station
+sport
+sports team season
+bird
+memorial
+rugby player
+capital of region
+roller coaster
+cardinal
+winery
+conifer
+motorcycle
+race track
+law firm
+vodka
+lipid
+aristocrat
+literary genre
+sea
+hockey club
+political party
+bridge
+cycling race
+legislature
+cartoon
+broadcaster
+flowering plant
+musical artist
+country
+athletics
+mathematical concept
+entomologist
+planet
+ice hockey league
+radio host
+guitar
+taxonomic group
+power station
+comic strip
+galaxy
+journalist
+humangene
+handball player
+church
+employer
+samba school
+television season
+muscle
+eurovision song contest entry
+pharaoh
+chancellor
+cricket team
+cycling league
+sumo wrestler
+file
+boxer
+cultivar (cultivated variety)
+mine
+record office
+snooker world champion
+soccer player
+bowling league
+cycad
+british royalty
+artist discography
+settlement
+fern
+regency
+automobile engine
+port
+television director
+speedway league
+bay
+language
+province
+top level domain
+tenure
+singer
+motorsport season
+vice president
+list
+biathlete
+clerical order
+record label
+cricketer
+horse rider
+food
+beauty queen
+engine
+nuclear power plant
+psychologist
+archbishop
+mineral
+mean of transportation
+cabinet of ministers
+wrestler
+underground journal
+bone
+religious
+darts player
+wine
+artwork
+cycling competition
+vaccination statistics
+cross-country skier
+lock
+olympic result
+reference
+swimmer
+music festival
+temple
+mousegenelocation
+comics creator
+television station
+senator
+brain
+beach
+town
+rugby club
+beach volleyball player
+anatomical structure
+پھُپھُوندی
+producer
+mountain
+quote
+crater
+american leader
+artistic genre
+work
+olympic event
+comic
+fungus
+photographer
+continent
+weapon
+historical province
+desert
+woman
+moving image
+comedy group

@@ -1,0 +1,26 @@
+has ingredient
+produced by
+has quality
+has substance added
+has member
+has role
+preceded by
+has_specified_output
+derives from
+has food substance analog
+hasCountryOfOrigin
+has consumer
+has_specified_input
+characteristic of
+is_specified_output_of
+output of
+located in
+connected to
+has characteristic
+has part
+immersed in
+has defining ingredient
+is about
+surrounded by
+realizes
+member of
