@@ -34,18 +34,17 @@ The zero-shot testing phase will also be organized into two stages that will run
 |            Task A - Term Typing            |   A.4(FS)   | GO (Biological Process) |      `released`      |              `released`               |
 |            Task A - Term Typing            |   A.4(FS)   | GO (Cellular Component) |      `released`      |              `released`               |
 |            Task A - Term Typing            |   A.4(FS)   | GO (Molecular Function) |      `released`      |              `released`               |
-|            Task A - Term Typing            | **A.5(ZS)** |         Unknown         |          -           |              `released`               |
-|            Task A - Term Typing            | **A.6(ZS)** |         Unknown         |          -           |              `released`               |
-|        Task B - Taxonomy Discovery         |   B.1(FS)   |        GeoNames         |      `released`      |      `releases on July 5, 2024`       |
-|        Task B - Taxonomy Discovery         |   B.2(FS)   |       Schema.org        |      `released`      |      `releases on July 5, 2024`       |
-|        Task B - Taxonomy Discovery         |   B.3(FS)   |          UMLS           | `released privately` | `privately releases on July 5, 2024`  |
-|        Task B - Taxonomy Discovery         |   B.4(FS)   |           GO            |      `released`      |      `releases on July 5, 2024`       |
-|        Task B - Taxonomy Discovery         | **B.5(ZS)** |         Unknown         |          -           |      `releases on July 5, 2024`       |
-|        Task B - Taxonomy Discovery         | **B.6(ZS)** |         Unknown         |          -           |      `releases on July 5, 2024`       |
-| Task C - Non-Taxonomic Relation Extraction |   C.1(FS)   |          UMLS           | `released privately` | `privately releases on  July 5, 2024` |
-| Task C - Non-Taxonomic Relation Extraction |   C.2(FS)   |           GO            |      `released`      |      `releases on July 5, 2024`       |
-| Task C - Non-Taxonomic Relation Extraction | **C.3(ZS)** |         Unknown         |          -           |      `releases on July 5, 2024`       |
-| Task C - Non-Taxonomic Relation Extraction | **C.4(ZS)** |         Unknown         |          -           |      `releases on July 5, 2024`       |
+|            Task A - Term Typing            | **A.5(ZS)** |         DPO (DBpedia Ontolog)         |          -           |              `released`               |
+|            Task A - Term Typing            | **A.6(ZS)** |         FoodOn (Food Ontology)         |          -           |              `released`               |
+|        Task B - Taxonomy Discovery         |   B.1(FS)   |        GeoNames         |      `released`      |      `released`       |
+|        Task B - Taxonomy Discovery         |   B.2(FS)   |       Schema.org        |      `released`      |      `released`       |
+|        Task B - Taxonomy Discovery         |   B.3(FS)   |          UMLS           | `released privately` | `released privately`  |
+|        Task B - Taxonomy Discovery         |   B.4(FS)   |           GO            |      `released`      |      `released`       |
+|        Task B - Taxonomy Discovery         | **B.5(ZS)** |         DPO (DBpedia Ontolog)         |          -           |      `released`       |
+|        Task B - Taxonomy Discovery         | **B.6(ZS)** |         FoodOn (Food Ontology)         |          -           |      `released`       |
+| Task C - Non-Taxonomic Relation Extraction |   C.1(FS)   |          UMLS           | `released privately` | `released privately` |
+| Task C - Non-Taxonomic Relation Extraction |   C.2(FS)   |           GO            |      `released`      |      `released`       |
+| Task C - Non-Taxonomic Relation Extraction | **C.3(ZS)** |         FoodOn (Food Ontology)         |          -           |      `released`       |
 
 * `FS` stands for Few-shot testing tasks
 * `ZS` stands for Zero-shot testing tasks
