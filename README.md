@@ -1,4 +1,4 @@
-![LLMs4OL: Large Language Models for Ontology Learning](llms4ol-header.jpg)
+~~![LLMs4OL: Large Language Models for Ontology Learning](llms4ol-header.jpg)
 
 <H2 style="color: #000080; text-align: center;"><p align="center"> LLMs4OL: Large Language Models for Ontology Learning  </p></H2>
 <H3 style="text-align: center;"><p align="center">LLMs4OL Challenge @ ISWC 2024  </p> </H3>
@@ -48,4 +48,34 @@ The zero-shot testing phase will also be organized into two stages that will run
 
 * `FS` stands for Few-shot testing tasks
 * `ZS` stands for Zero-shot testing tasks
+
+## Citation:
+
+* LLMs4OL original paper:
+```
+@InProceedings{10.1007/978-3-031-47240-4_22,
+        author="Babaei Giglou, Hamed
+        and D'Souza, Jennifer
+        and Auer, S{\"o}ren",
+        editor="Payne, Terry R.
+        and Presutti, Valentina
+        and Qi, Guilin
+        and Poveda-Villal{\'o}n, Mar{\'i}a
+        and Stoilos, Giorgos
+        and Hollink, Laura
+        and Kaoudi, Zoi
+        and Cheng, Gong
+        and Li, Juanzi",
+        title="LLMs4OL: Large Language Models for Ontology Learning",
+        booktitle="The Semantic Web -- ISWC 2023",
+        year="2023",
+        publisher="Springer Nature Switzerland",
+        address="Cham",
+        pages="408--427",
+        isbn="978-3-031-47240-4"
+}
+```
+
+* LLMs4OL challenge paper:
+```comming soon```
 
